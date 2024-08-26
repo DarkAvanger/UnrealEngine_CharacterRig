@@ -11,7 +11,21 @@
 				"C:/Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/brow_mat.uasset",
 				"C:/Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/mustache_mat.uasset",
 				"C:/Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/Tom_Skeleton.uasset",
-				"C:/Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/Tom_PhysicsAsset.uasset"
+				"C:/Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/Tom_PhysicsAsset.uasset",
+				"C:/Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/ThirdPerson/Blueprints/Tom.uasset",
+				"C:/Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/TomIk.uasset",
+				"C:/Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/Retargeter.uasset",
+				"C:/Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/ABP_Manny.uasset",
+				"C:/Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/Retarget/MM_Land.uasset",
+				"C:/Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/Retarget/BS_MM_WalkRun.uasset",
+				"C:/Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/Retarget/MM_Idle.uasset",
+				"C:/Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/Retarget/MM_Fall_Loop.uasset",
+				"C:/Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/Retarget/MM_Jump.uasset",
+				"C:/Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/Retarget/MM_Run_Fwd.uasset",
+				"C:/Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/Retarget/MM_Walk_Fwd.uasset",
+				"C:/Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/Retarget/MM_Walk_InPlace.uasset",
+				"C:/Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/Retarget/ABP_Manny.uasset"
 			]
 		}
 	]

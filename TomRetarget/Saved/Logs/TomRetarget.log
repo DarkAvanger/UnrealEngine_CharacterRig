@@ -1326,3 +1326,1451 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.08.26-20.45.49:477][103]LogContentValidation: Display: Validating /Script/Engine.Material /Game/mouth_mat.mouth_mat
 [2024.08.26-20.45.49:477][103]LogContentValidation: Display: Validating /Script/Engine.Material /Game/body_ai_mat.body_ai_mat
 [2024.08.26-20.45.49:477][103]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/Tom.Tom
+[2024.08.26-21.44.18:897][648]LogDerivedDataCache: C:/Users/ngelc/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.053 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2502 files in 3622 folders with total size 221 MiB.
+[2024.08.26-22.23.51:608][175]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.26-22.23.59:826][714]LogContentBrowser: Deferred new asset file creation: BP_ThirdPersonCharacter1
+[2024.08.26-22.23.59:835][714]LogContentBrowser: Creating deferred item: BP_ThirdPersonCharacter1
+[2024.08.26-22.23.59:840][715]LogContentBrowser: Renaming the item being created (Deferred Item: BP_ThirdPersonCharacter1).
+[2024.08.26-22.24.02:246][  1]LogContentBrowser: Attempting asset rename: BP_ThirdPersonCharacter1 -> Tom
+[2024.08.26-22.24.02:268][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.08.26-22.24.02:282][  1]LogContentBrowser: End creating deferred item BP_ThirdPersonCharacter1
+[2024.08.26-22.24.02:283][  1]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.26-22.24.03:494][140]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/Tom.Tom
+[2024.08.26-22.24.03:494][140]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.26-22.24.03:494][140]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.26-22.24.04:076][140]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.08.26-22.24.04:149][142]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.26-22.24.04:157][142]LogSlate: Took 0.000200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.08.26-22.24.05:662][252]LogSlate: Took 0.000105 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.08.26-22.24.09:991][509]BlueprintLog: New page: Compile Tom
+[2024.08.26-22.24.10:041][509]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.08.26-22.24.20:472][832]LogViewport: Scene viewport resized to 1033x610, mode Windowed.
+[2024.08.26-22.24.28:473][459]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'DefaultForeground'.'
+[2024.08.26-22.24.45:862][673]BlueprintLog: New page: Compile Tom
+[2024.08.26-22.24.45:914][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.08.26-22.24.49:481][ 14]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.26-22.24.54:542][583]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.26-22.24.55:638][674]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.26-22.24.55:784][686]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.26-22.24.55:917][697]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.26-22.25.44:860][384]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.08.26-22.25.44:868][384]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.08.26-22.25.44:869][384]LogWorldPartition: Display: GenerateStreaming started...
+[2024.08.26-22.25.44:869][384]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.08.26-22.25.44:869][384]LogWorldPartition: Display: GetPartitionedActors took 7 us
+[2024.08.26-22.25.44:869][384]LogWorldPartition: Display: GenerateStreaming took 88 us
+[2024.08.26-22.25.44:869][384]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.08.26-22.25.44:870][384]PIE: New page: PIE session: ThirdPersonMap (27 ago. 2024 2:25:44)
+[2024.08.26-22.25.44:874][384]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.08.26-22.25.44:874][384]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2024.08.26-22.25.44:874][384]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.08.26-22.25.44:877][384]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002489s)
+[2024.08.26-22.25.44:877][384]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.002517s)
+[2024.08.26-22.25.44:877][384]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.26-22.25.44:877][384]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.26-22.25.44:877][384]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.08.26-22.25.44:878][384]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.08.26-22.25.44:878][384]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.08.26-22.25.44:878][384]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.08.26-22.25.44:878][384]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.08.26-22.25.44:878][384]LogWorldPartition: Display: WorldPartition initialize took 547 us (total: 181 ms)
+[2024.08.26-22.25.44:878][384]LogPlayLevel: PIE: World Init took: (0.001301s)
+[2024.08.26-22.25.44:891][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.08.26-22.25.44:892][384]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.08.26-22.25.44:892][384]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.08.26-22.25.44:892][384]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.08.26-22.25.44:892][384]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.08.26-22.25.44:892][384]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.08.26-22.25.44:892][384]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.08.26-22.25.44:892][384]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.08.26-22.25.44:892][384]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.08.26-22.25.44:892][384]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.08.26-22.25.44:892][384]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.08.26-22.25.44:892][384]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.08.26-22.25.44:892][384]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.08.26-22.25.44:893][384]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.08.26-22.25.44:907][384]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Logitech PRO X Wireless Gaming Headset)
+[2024.08.26-22.25.44:907][384]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.08.26-22.25.44:908][384]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.08.26-22.25.44:908][384]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.08.26-22.25.44:908][384]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.08.26-22.25.44:908][384]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=2
+[2024.08.26-22.25.44:909][384]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.08.26-22.25.44:909][384]LogInit: FAudioDevice initialized with ID 2.
+[2024.08.26-22.25.44:909][384]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonMap'.
+[2024.08.26-22.25.44:909][384]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.08.26-22.25.44:909][384]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.08.26-22.25.44:911][384]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.08.26-22.25.44:912][384]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.08.27-00.25.44
+[2024.08.26-22.25.44:912][384]LogWorld: Bringing up level for play took: 0.000902
+[2024.08.26-22.25.44:913][384]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2024.08.26-22.25.44:919][384]PIE: Server logged in
+[2024.08.26-22.25.44:920][384]PIE: Play in editor total start time 0,053 seconds.
+[2024.08.26-22.25.44:939][384]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.26-22.25.44:950][385]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.26-22.25.48:662][816]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.26-22.25.48:662][816]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.08.26-22.25.48:662][816]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.08.26-22.25.48:662][816]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.26-22.25.48:662][816]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.08.26-22.25.48:666][816]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.08.26-22.25.48:668][816]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.26-22.25.48:682][816]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.08.26-22.25.48:682][816]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.08.26-22.25.48:682][816]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.08.26-22.25.48:685][816]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.08.26-22.25.48:687][816]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.26-22.25.48:689][816]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.08.26-22.25.48:704][816]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.26-22.25.48:712][817]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.26-22.25.48:741][820]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2024.08.26-22.25.52:707][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.08.26-22.25.52:709][122]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.26-22.25.52:736][122]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode
+[2024.08.26-22.25.52:736][122]LogSavePackage: Moving '../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Saved/BP_ThirdPersonGameMode2EAE0A3F452D340F3C375BA12355D37D.tmp' to '../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset'
+[2024.08.26-22.25.52:750][122]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.26-22.25.52:769][122]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Tom
+[2024.08.26-22.25.52:769][122]LogSavePackage: Moving '../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Saved/Tom1C18BFD7400A289AF24B458C7FD9DAB1.tmp' to '../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/ThirdPerson/Blueprints/Tom.uasset'
+[2024.08.26-22.25.52:781][122]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 4.78 sec)
+[2024.08.26-22.25.52:783][122]AssetCheck: New page: Asset Save: multiple assets
+[2024.08.26-22.25.52:783][122]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/Tom.Tom
+[2024.08.26-22.25.52:783][122]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode
+[2024.08.26-22.26.33:879][361]LogContentBrowser: Deferred new asset file creation: NewIKRig
+[2024.08.26-22.26.33:893][361]LogContentBrowser: Creating deferred item: NewIKRig
+[2024.08.26-22.26.33:905][362]LogContentBrowser: Renaming the item being created (Deferred Item: NewIKRig).
+[2024.08.26-22.26.37:163][736]LogContentBrowser: Attempting asset rename: NewIKRig -> TomIk
+[2024.08.26-22.26.37:163][736]LogContentBrowser: End creating deferred item NewIKRig
+[2024.08.26-22.26.39:661][988]LogAssetEditorSubsystem: Opening Asset editor for IKRigDefinition /Game/TomIk.TomIk
+[2024.08.26-22.26.39:662][988]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.26-22.26.39:662][988]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.26-22.26.39:789][988]LogViewport: Scene viewport resized to 812x564, mode Windowed.
+[2024.08.26-22.26.39:811][989]LogViewport: Scene viewport resized to 812x559, mode Windowed.
+[2024.08.26-22.26.49:942][433]LogViewport: Scene viewport resized to 1197x864, mode Windowed.
+[2024.08.26-22.26.54:695][726]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.08.26-22.28.14:134][287]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_ball_SKN.
+[2024.08.26-22.28.14:134][287]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_ball_SKN.
+[2024.08.26-22.28.14:134][287]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_palm_SKN.
+[2024.08.26-22.28.14:134][287]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_palm_SKN.
+[2024.08.26-22.28.14:158][287]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_ball_SKN.
+[2024.08.26-22.28.14:158][287]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_ball_SKN.
+[2024.08.26-22.28.14:158][287]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_palm_SKN.
+[2024.08.26-22.28.14:158][287]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_palm_SKN.
+[2024.08.26-22.28.14:164][288]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_ball_SKN.
+[2024.08.26-22.28.14:164][288]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_ball_SKN.
+[2024.08.26-22.28.14:164][288]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_palm_SKN.
+[2024.08.26-22.28.14:164][288]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_palm_SKN.
+[2024.08.26-22.28.14:172][289]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_ball_SKN.
+[2024.08.26-22.28.14:172][289]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_ball_SKN.
+[2024.08.26-22.28.14:172][289]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_palm_SKN.
+[2024.08.26-22.28.14:172][289]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_palm_SKN.
+[2024.08.26-22.28.14:189][290]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_ball_SKN.
+[2024.08.26-22.28.14:189][290]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_ball_SKN.
+[2024.08.26-22.28.14:189][290]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_palm_SKN.
+[2024.08.26-22.28.14:189][290]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_palm_SKN.
+[2024.08.26-22.28.14:207][291]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_ball_SKN.
+[2024.08.26-22.28.14:207][291]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_ball_SKN.
+[2024.08.26-22.28.14:207][291]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_palm_SKN.
+[2024.08.26-22.28.14:207][291]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_palm_SKN.
+[2024.08.26-22.28.14:226][292]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_ball_SKN.
+[2024.08.26-22.28.14:226][292]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_ball_SKN.
+[2024.08.26-22.28.14:226][292]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_palm_SKN.
+[2024.08.26-22.28.14:226][292]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_palm_SKN.
+[2024.08.26-22.28.14:244][293]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_ball_SKN.
+[2024.08.26-22.28.14:244][293]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_ball_SKN.
+[2024.08.26-22.28.14:244][293]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_palm_SKN.
+[2024.08.26-22.28.14:244][293]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_palm_SKN.
+[2024.08.26-22.28.14:262][294]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_ball_SKN.
+[2024.08.26-22.28.14:262][294]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_ball_SKN.
+[2024.08.26-22.28.14:262][294]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_palm_SKN.
+[2024.08.26-22.28.14:262][294]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_palm_SKN.
+[2024.08.26-22.28.14:280][295]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_ball_SKN.
+[2024.08.26-22.28.14:280][295]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_ball_SKN.
+[2024.08.26-22.28.14:280][295]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_palm_SKN.
+[2024.08.26-22.28.14:280][295]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_palm_SKN.
+[2024.08.26-22.28.14:299][296]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_ball_SKN.
+[2024.08.26-22.28.14:299][296]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_ball_SKN.
+[2024.08.26-22.28.14:299][296]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_palm_SKN.
+[2024.08.26-22.28.14:299][296]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_palm_SKN.
+[2024.08.26-22.28.14:317][297]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_ball_SKN.
+[2024.08.26-22.28.14:317][297]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_ball_SKN.
+[2024.08.26-22.28.14:317][297]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_palm_SKN.
+[2024.08.26-22.28.14:317][297]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_palm_SKN.
+[2024.08.26-22.28.14:335][298]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_ball_SKN.
+[2024.08.26-22.28.14:335][298]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_ball_SKN.
+[2024.08.26-22.28.14:335][298]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_palm_SKN.
+[2024.08.26-22.28.14:335][298]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_palm_SKN.
+[2024.08.26-22.28.14:353][299]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_ball_SKN.
+[2024.08.26-22.28.14:353][299]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_ball_SKN.
+[2024.08.26-22.28.14:353][299]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_palm_SKN.
+[2024.08.26-22.28.14:353][299]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_palm_SKN.
+[2024.08.26-22.28.14:372][300]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_ball_SKN.
+[2024.08.26-22.28.14:372][300]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_ball_SKN.
+[2024.08.26-22.28.14:372][300]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_palm_SKN.
+[2024.08.26-22.28.14:372][300]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_palm_SKN.
+[2024.08.26-22.28.14:389][301]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_ball_SKN.
+[2024.08.26-22.28.14:389][301]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_ball_SKN.
+[2024.08.26-22.28.14:389][301]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_palm_SKN.
+[2024.08.26-22.28.14:389][301]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_palm_SKN.
+[2024.08.26-22.28.14:407][302]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_ball_SKN.
+[2024.08.26-22.28.14:407][302]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_ball_SKN.
+[2024.08.26-22.28.14:407][302]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_palm_SKN.
+[2024.08.26-22.28.14:407][302]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_palm_SKN.
+[2024.08.26-22.28.14:425][303]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_ball_SKN.
+[2024.08.26-22.28.14:425][303]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_ball_SKN.
+[2024.08.26-22.28.14:425][303]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_palm_SKN.
+[2024.08.26-22.28.14:425][303]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_palm_SKN.
+[2024.08.26-22.28.14:444][304]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_ball_SKN.
+[2024.08.26-22.28.14:444][304]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_ball_SKN.
+[2024.08.26-22.28.14:444][304]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_palm_SKN.
+[2024.08.26-22.28.14:444][304]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_palm_SKN.
+[2024.08.26-22.28.14:462][305]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_ball_SKN.
+[2024.08.26-22.28.14:462][305]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_ball_SKN.
+[2024.08.26-22.28.14:462][305]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_palm_SKN.
+[2024.08.26-22.28.14:462][305]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_palm_SKN.
+[2024.08.26-22.28.14:480][306]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_ball_SKN.
+[2024.08.26-22.28.14:480][306]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_ball_SKN.
+[2024.08.26-22.28.14:480][306]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_palm_SKN.
+[2024.08.26-22.28.14:480][306]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_palm_SKN.
+[2024.08.26-22.28.14:498][307]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_ball_SKN.
+[2024.08.26-22.28.14:498][307]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_ball_SKN.
+[2024.08.26-22.28.14:498][307]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_palm_SKN.
+[2024.08.26-22.28.14:498][307]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_palm_SKN.
+[2024.08.26-22.28.14:516][308]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_ball_SKN.
+[2024.08.26-22.28.14:516][308]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_ball_SKN.
+[2024.08.26-22.28.14:516][308]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_palm_SKN.
+[2024.08.26-22.28.14:516][308]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_palm_SKN.
+[2024.08.26-22.28.14:535][309]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_ball_SKN.
+[2024.08.26-22.28.14:535][309]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_ball_SKN.
+[2024.08.26-22.28.14:535][309]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_palm_SKN.
+[2024.08.26-22.28.14:535][309]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_palm_SKN.
+[2024.08.26-22.28.14:553][310]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_ball_SKN.
+[2024.08.26-22.28.14:553][310]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_ball_SKN.
+[2024.08.26-22.28.14:553][310]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_palm_SKN.
+[2024.08.26-22.28.14:553][310]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_palm_SKN.
+[2024.08.26-22.28.14:571][311]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_ball_SKN.
+[2024.08.26-22.28.14:571][311]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_ball_SKN.
+[2024.08.26-22.28.14:571][311]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_palm_SKN.
+[2024.08.26-22.28.14:571][311]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_palm_SKN.
+[2024.08.26-22.28.14:589][312]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_ball_SKN.
+[2024.08.26-22.28.14:589][312]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_ball_SKN.
+[2024.08.26-22.28.14:589][312]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_palm_SKN.
+[2024.08.26-22.28.14:589][312]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_palm_SKN.
+[2024.08.26-22.28.14:607][313]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_ball_SKN.
+[2024.08.26-22.28.14:607][313]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_ball_SKN.
+[2024.08.26-22.28.14:607][313]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_palm_SKN.
+[2024.08.26-22.28.14:607][313]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_palm_SKN.
+[2024.08.26-22.28.14:625][314]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_ball_SKN.
+[2024.08.26-22.28.14:626][314]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_ball_SKN.
+[2024.08.26-22.28.14:626][314]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_palm_SKN.
+[2024.08.26-22.28.14:626][314]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_palm_SKN.
+[2024.08.26-22.28.14:644][315]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_ball_SKN.
+[2024.08.26-22.28.14:644][315]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_ball_SKN.
+[2024.08.26-22.28.14:644][315]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_palm_SKN.
+[2024.08.26-22.28.14:644][315]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_palm_SKN.
+[2024.08.26-22.28.14:662][316]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_ball_SKN.
+[2024.08.26-22.28.14:662][316]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_ball_SKN.
+[2024.08.26-22.28.14:662][316]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_palm_SKN.
+[2024.08.26-22.28.14:662][316]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_palm_SKN.
+[2024.08.26-22.28.14:681][317]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_ball_SKN.
+[2024.08.26-22.28.14:681][317]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_ball_SKN.
+[2024.08.26-22.28.14:681][317]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_palm_SKN.
+[2024.08.26-22.28.14:681][317]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_palm_SKN.
+[2024.08.26-22.28.14:700][318]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_ball_SKN.
+[2024.08.26-22.28.14:700][318]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_ball_SKN.
+[2024.08.26-22.28.14:700][318]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_palm_SKN.
+[2024.08.26-22.28.14:700][318]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_palm_SKN.
+[2024.08.26-22.28.14:717][319]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_ball_SKN.
+[2024.08.26-22.28.14:717][319]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_ball_SKN.
+[2024.08.26-22.28.14:717][319]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_palm_SKN.
+[2024.08.26-22.28.14:717][319]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_palm_SKN.
+[2024.08.26-22.28.14:735][320]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_ball_SKN.
+[2024.08.26-22.28.14:735][320]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_ball_SKN.
+[2024.08.26-22.28.14:735][320]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_palm_SKN.
+[2024.08.26-22.28.14:735][320]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_palm_SKN.
+[2024.08.26-22.28.14:754][321]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_ball_SKN.
+[2024.08.26-22.28.14:754][321]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_ball_SKN.
+[2024.08.26-22.28.14:754][321]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_palm_SKN.
+[2024.08.26-22.28.14:754][321]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_palm_SKN.
+[2024.08.26-22.28.14:771][322]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_ball_SKN.
+[2024.08.26-22.28.14:771][322]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_ball_SKN.
+[2024.08.26-22.28.14:771][322]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_palm_SKN.
+[2024.08.26-22.28.14:772][322]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_palm_SKN.
+[2024.08.26-22.28.14:796][323]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_ball_SKN.
+[2024.08.26-22.28.14:796][323]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_ball_SKN.
+[2024.08.26-22.28.14:796][323]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_palm_SKN.
+[2024.08.26-22.28.14:796][323]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_palm_SKN.
+[2024.08.26-22.28.14:821][324]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_ball_SKN.
+[2024.08.26-22.28.14:821][324]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_ball_SKN.
+[2024.08.26-22.28.14:821][324]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_palm_SKN.
+[2024.08.26-22.28.14:821][324]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_palm_SKN.
+[2024.08.26-22.28.14:845][325]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_ball_SKN.
+[2024.08.26-22.28.14:845][325]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_ball_SKN.
+[2024.08.26-22.28.14:845][325]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_palm_SKN.
+[2024.08.26-22.28.14:845][325]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_palm_SKN.
+[2024.08.26-22.28.14:869][326]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_ball_SKN.
+[2024.08.26-22.28.14:869][326]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_ball_SKN.
+[2024.08.26-22.28.14:869][326]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_palm_SKN.
+[2024.08.26-22.28.14:869][326]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_palm_SKN.
+[2024.08.26-22.28.14:893][327]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_ball_SKN.
+[2024.08.26-22.28.14:893][327]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_ball_SKN.
+[2024.08.26-22.28.14:893][327]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_palm_SKN.
+[2024.08.26-22.28.14:893][327]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_palm_SKN.
+[2024.08.26-22.28.14:917][328]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_ball_SKN.
+[2024.08.26-22.28.14:917][328]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_ball_SKN.
+[2024.08.26-22.28.14:917][328]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_palm_SKN.
+[2024.08.26-22.28.14:917][328]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_palm_SKN.
+[2024.08.26-22.28.14:941][329]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_ball_SKN.
+[2024.08.26-22.28.14:941][329]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_ball_SKN.
+[2024.08.26-22.28.14:941][329]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_palm_SKN.
+[2024.08.26-22.28.14:941][329]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_palm_SKN.
+[2024.08.26-22.28.14:965][330]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_ball_SKN.
+[2024.08.26-22.28.14:965][330]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_ball_SKN.
+[2024.08.26-22.28.14:965][330]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_palm_SKN.
+[2024.08.26-22.28.14:965][330]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_palm_SKN.
+[2024.08.26-22.28.14:990][331]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_ball_SKN.
+[2024.08.26-22.28.14:990][331]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_ball_SKN.
+[2024.08.26-22.28.14:990][331]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_palm_SKN.
+[2024.08.26-22.28.14:990][331]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_palm_SKN.
+[2024.08.26-22.28.15:014][332]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_ball_SKN.
+[2024.08.26-22.28.15:014][332]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_ball_SKN.
+[2024.08.26-22.28.15:014][332]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_palm_SKN.
+[2024.08.26-22.28.15:014][332]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_palm_SKN.
+[2024.08.26-22.28.15:037][333]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_ball_SKN.
+[2024.08.26-22.28.15:037][333]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_ball_SKN.
+[2024.08.26-22.28.15:037][333]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_palm_SKN.
+[2024.08.26-22.28.15:037][333]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_palm_SKN.
+[2024.08.26-22.28.15:062][334]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_ball_SKN.
+[2024.08.26-22.28.15:062][334]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_ball_SKN.
+[2024.08.26-22.28.15:062][334]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_palm_SKN.
+[2024.08.26-22.28.15:062][334]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_palm_SKN.
+[2024.08.26-22.28.15:086][335]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_ball_SKN.
+[2024.08.26-22.28.15:086][335]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_ball_SKN.
+[2024.08.26-22.28.15:086][335]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_palm_SKN.
+[2024.08.26-22.28.15:086][335]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_palm_SKN.
+[2024.08.26-22.28.15:111][336]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_ball_SKN.
+[2024.08.26-22.28.15:111][336]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_ball_SKN.
+[2024.08.26-22.28.15:111][336]LogIKRigEditor: Warning: Solver does not have settings on bone, char_R_palm_SKN.
+[2024.08.26-22.28.15:111][336]LogIKRigEditor: Warning: Solver does not have settings on bone, char_L_palm_SKN.
+[2024.08.26-22.28.40:118][330]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.40:141][330]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.40:147][331]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.40:155][332]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.40:172][333]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.40:190][334]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.40:208][335]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.40:227][336]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.40:245][337]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.40:263][338]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.40:282][339]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.40:300][340]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.40:317][341]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.40:336][342]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.40:354][343]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.40:372][344]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.40:390][345]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.40:409][346]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.40:426][347]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.40:445][348]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.40:463][349]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.40:481][350]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.40:500][351]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.40:518][352]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.40:537][353]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.40:554][354]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.40:572][355]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.40:592][356]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.40:609][357]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.40:634][358]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.40:658][359]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.40:683][360]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.40:706][361]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.40:731][362]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.40:755][363]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.40:779][364]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.40:797][365]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.40:815][366]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.40:835][367]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.40:851][368]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.40:876][369]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.40:901][370]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.40:925][371]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.40:943][372]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.40:961][373]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.40:980][374]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.40:996][375]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.41:021][376]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.41:046][377]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.41:069][378]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.41:089][379]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.41:106][380]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.41:132][381]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.41:155][382]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.41:178][383]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.41:204][384]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.41:228][385]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.41:246][386]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.41:263][387]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.41:282][388]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.41:300][389]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.41:318][390]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.41:337][391]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.41:355][392]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.41:372][393]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.41:390][394]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.41:408][395]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.41:426][396]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.41:445][397]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.41:463][398]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.41:481][399]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.41:499][400]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.41:518][401]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.41:537][402]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.41:556][403]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.41:572][404]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.41:597][405]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.41:621][406]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.41:646][407]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.41:670][408]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.41:694][409]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.41:717][410]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.41:742][411]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.41:767][412]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.41:791][413]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.41:815][414]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.41:839][415]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.41:863][416]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.49:240][813]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.49:265][813]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.49:271][814]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.49:279][815]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.49:296][816]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.49:315][817]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.49:333][818]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.49:351][819]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.49:368][820]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.49:386][821]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.49:405][822]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.49:423][823]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.49:441][824]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.49:459][825]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.49:478][826]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.49:496][827]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.49:514][828]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.49:532][829]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.49:550][830]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.49:568][831]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.49:586][832]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.49:604][833]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.49:623][834]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.49:641][835]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.49:659][836]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.49:678][837]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.49:696][838]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.49:714][839]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.49:732][840]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.49:750][841]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.49:769][842]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.49:787][843]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.49:805][844]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.49:824][845]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.49:842][846]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.49:860][847]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.49:878][848]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.49:896][849]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.49:914][850]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.49:932][851]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.49:951][852]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.49:969][853]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.49:987][854]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.50:006][855]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.50:024][856]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.50:042][857]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.50:059][858]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.50:077][859]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.50:096][860]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.50:114][861]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.50:132][862]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.50:151][863]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.50:169][864]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.50:194][865]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.50:217][866]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.50:236][867]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.50:254][868]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.50:272][869]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.50:291][870]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.50:309][871]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.50:334][872]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.50:358][873]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.50:381][874]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.50:406][875]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.50:429][876]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.50:448][877]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.50:466][878]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.50:484][879]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.50:502][880]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.50:520][881]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.50:539][882]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.50:557][883]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.50:575][884]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.50:593][885]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.50:611][886]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.50:629][887]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.50:647][888]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.50:667][889]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.50:684][890]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.50:708][891]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.50:732][892]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.50:756][893]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.50:780][894]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.50:805][895]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.50:830][896]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.50:854][897]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.50:878][898]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.50:902][899]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.50:926][900]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.50:951][901]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.50:975][902]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.50:999][903]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.51:023][904]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.51:047][905]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.51:072][906]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.51:096][907]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.51:120][908]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.51:145][909]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.51:168][910]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.28.51:192][911]LogIKRigEditor: Warning: Solver does not have settings on bone, char_C_pelvis_SKN.
+[2024.08.26-22.29.03:306][273]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.08.26-22.29.37:353][927]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.08.26-22.29.37:581][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.08.26-22.29.37:582][928]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.018
+[2024.08.26-22.29.37:583][928]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TomIk] ([1] browsable assets)...
+[2024.08.26-22.29.37:583][928]OBJ SavePackage: Finished generating thumbnails for package [/Game/TomIk]
+[2024.08.26-22.29.37:583][928]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TomIk" FILE="../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Saved/Autosaves/Game/TomIk_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2024.08.26-22.29.37:587][928]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TomIk_Auto1
+[2024.08.26-22.29.37:587][928]LogSavePackage: Moving '../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Saved/TomIk_Auto1421CFC0841F73CD1CEE4A688416C4386.tmp' to '../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Saved/Autosaves/Game/TomIk_Auto1.uasset'
+[2024.08.26-22.29.37:588][928]LogFileHelpers: Auto-saving content packages took 0.006
+[2024.08.26-22.29.58:599][807]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.08.26-22.30.26:074][690]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.08.26-22.31.25:083][588]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.08.26-22.31.55:773][867]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.08.26-22.32.46:011][660]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.08.26-22.33.13:919][ 39]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.26-22.33.13:960][ 39]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TomIk" FILE="../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/TomIk.uasset" SILENT=true
+[2024.08.26-22.33.13:965][ 39]LogSavePackage: Moving output files for package: /Game/TomIk
+[2024.08.26-22.33.13:965][ 39]LogSavePackage: Moving '../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Saved/TomIk5D3E78FD456EA6F6ECB9E39D54C4250E.tmp' to '../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/TomIk.uasset'
+[2024.08.26-22.33.13:979][ 39]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 4.84 sec)
+[2024.08.26-22.33.13:985][ 39]AssetCheck: New page: Asset Save: TomIk
+[2024.08.26-22.33.13:985][ 39]LogContentValidation: Display: Validating /Script/IKRig.IKRigDefinition /Game/TomIk.TomIk
+[2024.08.26-22.33.19:339][223]LogViewport: Scene viewport resized to 812x559, mode Windowed.
+[2024.08.26-22.33.29:673][754]LogContentBrowser: Deferred new asset file creation: NewIKRetargeter
+[2024.08.26-22.33.29:680][754]LogContentBrowser: Creating deferred item: NewIKRetargeter
+[2024.08.26-22.33.29:689][755]LogContentBrowser: Renaming the item being created (Deferred Item: NewIKRetargeter).
+[2024.08.26-22.33.48:388][299]LogContentBrowser: Attempting asset rename: NewIKRetargeter -> Retargeter
+[2024.08.26-22.33.48:388][299]LogContentBrowser: End creating deferred item NewIKRetargeter
+[2024.08.26-22.33.50:089][431]LogAssetEditorSubsystem: Opening Asset editor for IKRetargeter /Game/Retargeter.Retargeter
+[2024.08.26-22.33.50:095][431]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.26-22.33.50:095][431]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.26-22.33.57:960][431]LogSlate: Window 'Select Source IK Rig (To Copy Animation From)' being destroyed
+[2024.08.26-22.33.58:225][431]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_anim.Manny_calf_l_anim
+[2024.08.26-22.33.58:228][431]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_anim.Manny_calf_r_anim
+[2024.08.26-22.33.58:232][431]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_anim.Manny_clavicle_l_anim
+[2024.08.26-22.33.58:236][431]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_anim.Manny_clavicle_r_anim
+[2024.08.26-22.33.58:241][431]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_l_anim.Manny_foot_l_anim
+[2024.08.26-22.33.58:245][431]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_r_anim.Manny_foot_r_anim
+[2024.08.26-22.33.58:250][431]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_l_anim.Manny_hand_l_anim
+[2024.08.26-22.33.58:254][431]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_r_anim.Manny_hand_r_anim
+[2024.08.26-22.33.58:259][431]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_anim.Manny_lowerarm_l_anim
+[2024.08.26-22.33.58:263][431]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_anim.Manny_lowerarm_r_anim
+[2024.08.26-22.33.58:267][431]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_anim.Manny_thigh_l_anim
+[2024.08.26-22.33.58:272][431]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_anim.Manny_thigh_r_anim
+[2024.08.26-22.33.58:276][431]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_anim.Manny_upperarm_l_anim
+[2024.08.26-22.33.58:281][431]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_anim.Manny_upperarm_r_anim
+[2024.08.26-22.33.58:281][431]LogSkeletalMesh: Building Skeletal Mesh SKM_Manny...
+[2024.08.26-22.33.58:321][431]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Manny) ...
+[2024.08.26-22.33.59:055][431]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 2 
+[2024.08.26-22.33.59:056][431]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 3 
+[2024.08.26-22.34.01:743][431]LogSkeletalMesh: Built Skeletal Mesh [3.46s] /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2024.08.26-22.34.01:748][431]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.08.26-22.34.05:997][431]LogSlate: Window 'Select Target IK Rig (To Copy Animation To)' being destroyed
+[2024.08.26-22.34.06:053][431]LogSlate: Took 0.003656 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.08.26-22.34.06:058][431]LogViewport: Scene viewport resized to 1148x680, mode Windowed.
+[2024.08.26-22.34.06:083][432]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.26-22.34.19:174][925]LogViewport: Scene viewport resized to 1691x1046, mode Windowed.
+[2024.08.26-22.35.30:289][465]Cmd: TRANSACTION UNDO
+[2024.08.26-22.35.30:289][465]LogEditorTransaction: Undo Rotate Retarget Pose Bone
+[2024.08.26-22.35.30:362][465]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.08.26-22.35.30:391][465]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.08.26-22.35.30:458][465]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.26-22.36.08:087][448]LogSlate: Window 'Create New Retarget Pose' being destroyed
+[2024.08.26-22.36.46:386][675]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.08.26-22.38.02:266][242]LogViewport: Scene viewport resized to 1197x864, mode Windowed.
+[2024.08.26-22.38.16:789][981]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.26-22.38.16:834][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Retargeter" FILE="../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/Retargeter.uasset" SILENT=true
+[2024.08.26-22.38.16:835][981]LogSavePackage: Moving output files for package: /Game/Retargeter
+[2024.08.26-22.38.16:835][981]LogSavePackage: Moving '../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Saved/Retargeter50BBDB784C4E894498F34E95E2A781C0.tmp' to '../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/Retargeter.uasset'
+[2024.08.26-22.38.16:855][981]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 4.91 sec)
+[2024.08.26-22.38.16:860][981]AssetCheck: New page: Asset Save: Retargeter
+[2024.08.26-22.38.16:860][981]LogContentValidation: Display: Validating /Script/IKRig.IKRetargeter /Game/Retargeter.Retargeter
+[2024.08.26-22.38.30:956][119]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.26-22.38.30:969][120]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.26-22.38.31:033][120]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Manny_Simple) ...
+[2024.08.26-22.38.42:507][871]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.26-22.38.42:507][871]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.26-22.38.42:514][871]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.26-22.38.42:515][871]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.26-22.38.42:593][871]LogViewport: Scene viewport resized to 400x300, mode Windowed.
+[2024.08.26-22.38.42:620][871]LogViewport: Scene viewport resized to 400x300, mode Windowed.
+[2024.08.26-22.38.53:742][468]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.26-22.39.05:509][ 35]LogSlate: Window 'Duplicate and Retarget Animation Assets' being destroyed
+[2024.08.26-22.39.05:593][ 35]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MM_Idle.MM_Idle
+[2024.08.26-22.39.05:605][ 35]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MM_Land.MM_Land
+[2024.08.26-22.39.05:617][ 35]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MM_Fall_Loop.MM_Fall_Loop
+[2024.08.26-22.39.05:639][ 35]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MM_Jump.MM_Jump
+[2024.08.26-22.39.05:655][ 35]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MM_Run_Fwd.MM_Run_Fwd
+[2024.08.26-22.39.05:664][ 35]LogAnimationCompression: Display: Storing compressed animation data for /Game/MM_Land.MM_Land, at AnimationSequence/80fd66e897778008d180cb936c283bc7a9eda5fe
+[2024.08.26-22.39.05:671][ 35]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MM_Walk_Fwd.MM_Walk_Fwd
+[2024.08.26-22.39.05:691][ 35]LogAnimationCompression: Display: Storing compressed animation data for /Game/MM_Jump.MM_Jump, at AnimationSequence/6016f5586bfb03670eb8bd4f7f18d2b0845aa70c
+[2024.08.26-22.39.05:699][ 35]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MM_Walk_InPlace.MM_Walk_InPlace
+[2024.08.26-22.39.05:716][ 35]LogAnimationCompression: Display: Storing compressed animation data for /Game/MM_Walk_InPlace.MM_Walk_InPlace, at AnimationSequence/e37118fab118aca34976ca60a22d0d391b65c430
+[2024.08.26-22.39.05:739][ 35]LogAnimationCompression: Display: Storing compressed animation data for /Game/MM_Run_Fwd.MM_Run_Fwd, at AnimationSequence/0959d1f7231cc156933b4c63f4fe4498a985ff3b
+[2024.08.26-22.39.05:742][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.08.26-22.39.05:774][ 35]LogAnimationCompression: Display: Storing compressed animation data for /Game/MM_Walk_Fwd.MM_Walk_Fwd, at AnimationSequence/30264bf62e319c5bfde9ca7e50b846e735ae9fbb
+[2024.08.26-22.39.05:791][ 35]LogAnimationCompression: Display: Storing compressed animation data for /Game/MM_Fall_Loop.MM_Fall_Loop, at AnimationSequence/54303812b1cbbe7854d1f23cd8f6daa8eef6fb78
+[2024.08.26-22.39.05:832][ 35]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MM_Idle.MM_Idle
+[2024.08.26-22.39.05:834][ 35]LogAnimationCompression: Display: Storing compressed animation data for /Game/MM_Idle.MM_Idle, at AnimationSequence/650d28f46cd14303c5887a3917de9d94b5a70374
+[2024.08.26-22.39.05:998][ 35]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MM_Land.MM_Land
+[2024.08.26-22.39.06:000][ 35]LogAnimationCompression: Display: Storing compressed animation data for /Game/MM_Land.MM_Land, at AnimationSequence/2f28a4074cd34a6571c6617083d7cb018ae68cdc
+[2024.08.26-22.39.06:162][ 35]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/MM_Fall_Loop.MM_Fall_Loop
+[2024.08.26-22.39.06:326][ 35]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/MM_Jump.MM_Jump
+[2024.08.26-22.39.06:388][ 35]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/MM_Run_Fwd.MM_Run_Fwd
+[2024.08.26-22.39.06:459][ 35]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/MM_Walk_Fwd.MM_Walk_Fwd
+[2024.08.26-22.39.06:627][ 35]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MM_Walk_InPlace.MM_Walk_InPlace
+[2024.08.26-22.39.06:628][ 35]LogAnimationCompression: Display: Storing compressed animation data for /Game/MM_Walk_InPlace.MM_Walk_InPlace, at AnimationSequence/f09cf28af888458994a3c8d4b6f7b51049b9b4bf
+[2024.08.26-22.39.06:646][ 35]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.08.26-22.39.06:668][ 35]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.08.26-22.39.06:668][ 35]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MM_Idle.MM_Idle
+[2024.08.26-22.39.06:685][ 35]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.08.26-22.39.06:686][ 35]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MM_Land.MM_Land
+[2024.08.26-22.39.06:700][ 35]LogAnimationCompression: Display: Storing compressed animation data for /Game/MM_Land.MM_Land, at AnimationSequence/ddc8e7ae5d00e5df4bbcfc9033a76441d858e022
+[2024.08.26-22.39.06:701][ 35]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.08.26-22.39.06:701][ 35]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MM_Fall_Loop.MM_Fall_Loop
+[2024.08.26-22.39.06:708][ 35]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.08.26-22.39.06:709][ 35]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MM_Jump.MM_Jump
+[2024.08.26-22.39.06:718][ 35]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.08.26-22.39.06:718][ 35]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MM_Run_Fwd.MM_Run_Fwd
+[2024.08.26-22.39.06:731][ 35]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.08.26-22.39.06:731][ 35]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MM_Walk_Fwd.MM_Walk_Fwd
+[2024.08.26-22.39.06:736][ 35]LogAnimationCompression: Display: Storing compressed animation data for /Game/MM_Jump.MM_Jump, at AnimationSequence/154181e686b2dd7d6968f6ee454e23e4f176b760
+[2024.08.26-22.39.06:752][ 35]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MM_Walk_InPlace.MM_Walk_InPlace
+[2024.08.26-22.39.06:764][ 35]LogAnimationCompression: Display: Storing compressed animation data for /Game/MM_Walk_InPlace.MM_Walk_InPlace, at AnimationSequence/d9100c2e09106f6deeeb23490a653d9c3c03e59a
+[2024.08.26-22.39.06:768][ 35]LogAnimationCompression: Display: Storing compressed animation data for /Game/MM_Run_Fwd.MM_Run_Fwd, at AnimationSequence/154181e686b2dd7d6968f6ee454e23e4f176b760
+[2024.08.26-22.39.06:769][ 35]LogDerivedDataCache: Display: C:/Users/ngelc/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 8d09c21445ea5799fbe07b6dd94649e330597149 and existing hash 2071d016d3da27be5cf3bd9b26c5c182e43293ed for AnimationSequence/154181e686b2dd7d6968f6ee454e23e4f176b760 from '/Game/MM_Run_Fwd.MM_Run_Fwd'
+[2024.08.26-22.39.06:782][ 35]LogAnimationCompression: Display: Storing compressed animation data for /Game/MM_Fall_Loop.MM_Fall_Loop, at AnimationSequence/154181e686b2dd7d6968f6ee454e23e4f176b760
+[2024.08.26-22.39.06:782][ 35]LogDerivedDataCache: Display: C:/Users/ngelc/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash ac1a71e0d2e4ee274ed650e94ef0bee9e6895be9 and existing hash 2071d016d3da27be5cf3bd9b26c5c182e43293ed for AnimationSequence/154181e686b2dd7d6968f6ee454e23e4f176b760 from '/Game/MM_Fall_Loop.MM_Fall_Loop'
+[2024.08.26-22.39.06:787][ 35]LogTemp: Display: Duplicate and Retarget - New Asset Created: BS_MM_WalkRun
+[2024.08.26-22.39.06:787][ 35]LogTemp: Display: Duplicate and Retarget - New Asset Created: MM_Idle
+[2024.08.26-22.39.06:787][ 35]LogTemp: Display: Duplicate and Retarget - New Asset Created: MM_Land
+[2024.08.26-22.39.06:787][ 35]LogTemp: Display: Duplicate and Retarget - New Asset Created: MM_Fall_Loop
+[2024.08.26-22.39.06:787][ 35]LogTemp: Display: Duplicate and Retarget - New Asset Created: MM_Jump
+[2024.08.26-22.39.06:787][ 35]LogTemp: Display: Duplicate and Retarget - New Asset Created: MM_Run_Fwd
+[2024.08.26-22.39.06:787][ 35]LogTemp: Display: Duplicate and Retarget - New Asset Created: MM_Walk_Fwd
+[2024.08.26-22.39.06:787][ 35]LogTemp: Display: Duplicate and Retarget - New Asset Created: MM_Walk_InPlace
+[2024.08.26-22.39.06:787][ 35]LogTemp: Display: Duplicate and Retarget - New Asset Created: ABP_Manny
+[2024.08.26-22.39.06:802][ 35]LogAnimationCompression: Display: Storing compressed animation data for /Game/MM_Walk_Fwd.MM_Walk_Fwd, at AnimationSequence/154181e686b2dd7d6968f6ee454e23e4f176b760
+[2024.08.26-22.39.06:802][ 35]LogDerivedDataCache: Display: C:/Users/ngelc/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash f67838d1c3b43b517e69f27f22ed8dacd472153b and existing hash 2071d016d3da27be5cf3bd9b26c5c182e43293ed for AnimationSequence/154181e686b2dd7d6968f6ee454e23e4f176b760 from '/Game/MM_Walk_Fwd.MM_Walk_Fwd'
+[2024.08.26-22.39.06:836][ 35]LogAnimationCompression: Display: Storing compressed animation data for /Game/MM_Idle.MM_Idle, at AnimationSequence/154181e686b2dd7d6968f6ee454e23e4f176b760
+[2024.08.26-22.39.06:836][ 35]LogDerivedDataCache: Display: C:/Users/ngelc/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash a867fade1c8c7a41e1099e0b4ad6ac5603dfd59f and existing hash 2071d016d3da27be5cf3bd9b26c5c182e43293ed for AnimationSequence/154181e686b2dd7d6968f6ee454e23e4f176b760 from '/Game/MM_Idle.MM_Idle'
+[2024.08.26-22.39.06:866][ 35]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.08.26-22.39.06:866][ 35]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.26-22.39.06:868][ 35]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2024.08.26-22.39.06:868][ 35]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.26-22.39.11:501][173]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.26-22.39.11:537][174]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.26-22.39.26:792][258]LogViewport: Scene viewport resized to 1522x935, mode Windowed.
+[2024.08.26-22.40.51:704][851]BlueprintLog: New page: Compile Tom
+[2024.08.26-22.40.51:777][851]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.08.26-22.40.52:736][916]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.26-22.40.52:804][916]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Tom
+[2024.08.26-22.40.52:804][916]LogSavePackage: Moving '../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Saved/TomE07F5F314EA39548E4C8AE8C4AD0DAFB.tmp' to '../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/ThirdPerson/Blueprints/Tom.uasset'
+[2024.08.26-22.40.52:816][916]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 4.98 sec)
+[2024.08.26-22.40.52:818][916]AssetCheck: New page: Asset Save: Tom
+[2024.08.26-22.40.52:818][916]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/Tom.Tom
+[2024.08.26-22.41.12:511][191]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/ABP_Manny.ABP_Manny
+[2024.08.26-22.41.12:511][191]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.26-22.41.12:511][191]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.26-22.41.12:530][191]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.26-22.41.12:530][191]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.26-22.41.12:535][191]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.08.26-22.41.12:630][191]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.26-22.41.12:630][191]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.26-22.41.12:680][191]LogViewport: Scene viewport resized to 634x559, mode Windowed.
+[2024.08.26-22.41.44:835][434]BlueprintLog: New page: Compile ABP_Manny
+[2024.08.26-22.41.44:858][434]LogScript: Warning: Attempted to access Tom_C_2 via property Character, but Tom_C_2 is not valid (pending kill or garbage)
+	ABP_Manny_C /Engine/Transient.World_8:PersistentLevel.Tom_C_2.CharacterMesh0.ABP_Manny_C_1
+	Function /Game/ABP_Manny.ABP_Manny_C:ExecuteUbergraph_ABP_Manny:0307
+[2024.08.26-22.41.44:873][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.08.26-22.41.45:776][498]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.26-22.41.45:837][498]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ABP_Manny" FILE="../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/ABP_Manny.uasset" SILENT=true
+[2024.08.26-22.41.45:857][498]LogSavePackage: Moving output files for package: /Game/ABP_Manny
+[2024.08.26-22.41.45:857][498]LogSavePackage: Moving '../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Saved/ABP_MannyB683B5B34FB69904428A299C28AA2A5F.tmp' to '../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/ABP_Manny.uasset'
+[2024.08.26-22.41.45:874][498]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 5.08 sec)
+[2024.08.26-22.41.45:876][498]AssetCheck: New page: Asset Save: ABP_Manny
+[2024.08.26-22.41.45:876][498]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/ABP_Manny.ABP_Manny
+[2024.08.26-22.41.48:315][744]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.08.26-22.41.48:323][744]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.08.26-22.41.48:324][744]LogWorldPartition: Display: GenerateStreaming started...
+[2024.08.26-22.41.48:324][744]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.08.26-22.41.48:324][744]LogWorldPartition: Display: GetPartitionedActors took 6 us (total: 13 us)
+[2024.08.26-22.41.48:324][744]LogWorldPartition: Display: GenerateStreaming took 82 us (total: 171 us)
+[2024.08.26-22.41.48:336][744]LogPlayLevel: Warning: Cancelling Open Transaction 'Deleting All Animation Curve' to start PIE session.
+[2024.08.26-22.41.48:336][744]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.08.26-22.41.48:336][744]PIE: New page: PIE session: ThirdPersonMap (27 ago. 2024 2:41:48)
+[2024.08.26-22.41.48:337][744]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.08.26-22.41.48:339][744]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002235s)
+[2024.08.26-22.41.48:339][744]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.002257s)
+[2024.08.26-22.41.48:339][744]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.26-22.41.48:339][744]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.26-22.41.48:339][744]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.08.26-22.41.48:339][744]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.08.26-22.41.48:339][744]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.08.26-22.41.48:339][744]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.08.26-22.41.48:340][744]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.08.26-22.41.48:340][744]LogWorldPartition: Display: WorldPartition initialize took 516 us (total: 181 ms)
+[2024.08.26-22.41.48:340][744]LogPlayLevel: PIE: World Init took: (0.001192s)
+[2024.08.26-22.41.48:355][744]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.08.26-22.41.48:357][744]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.08.26-22.41.48:357][744]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.08.26-22.41.48:357][744]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.08.26-22.41.48:357][744]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.08.26-22.41.48:357][744]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.08.26-22.41.48:357][744]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.08.26-22.41.48:357][744]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.08.26-22.41.48:357][744]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.08.26-22.41.48:357][744]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.08.26-22.41.48:357][744]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.08.26-22.41.48:357][744]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.08.26-22.41.48:357][744]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.08.26-22.41.48:358][744]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.08.26-22.41.48:371][744]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Logitech PRO X Wireless Gaming Headset)
+[2024.08.26-22.41.48:371][744]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.08.26-22.41.48:371][744]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.08.26-22.41.48:371][744]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.08.26-22.41.48:372][744]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.08.26-22.41.48:372][744]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=3
+[2024.08.26-22.41.48:373][744]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.08.26-22.41.48:373][744]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.08.26-22.41.48:373][744]LogInit: FAudioDevice initialized with ID 3.
+[2024.08.26-22.41.48:373][744]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonMap'.
+[2024.08.26-22.41.48:373][744]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.08.26-22.41.48:375][744]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.08.26-22.41.48:375][744]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.08.27-00.41.48
+[2024.08.26-22.41.48:375][744]LogWorld: Bringing up level for play took: 0.000823
+[2024.08.26-22.41.48:376][744]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2024.08.26-22.41.48:378][744]PIE: Server logged in
+[2024.08.26-22.41.48:379][744]PIE: Play in editor total start time 0,056 seconds.
+[2024.08.26-22.41.48:399][744]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.26-22.41.48:417][745]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.26-22.41.56:250][388]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.26-22.41.56:250][388]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.08.26-22.41.56:250][388]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.08.26-22.41.56:251][388]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.26-22.41.56:251][388]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.08.26-22.41.56:254][388]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.08.26-22.41.56:256][388]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.26-22.41.56:270][388]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.08.26-22.41.56:271][388]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.08.26-22.41.56:271][388]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.08.26-22.41.56:272][388]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.08.26-22.41.56:275][388]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.26-22.41.56:276][388]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.08.26-22.41.56:291][388]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.26-22.41.56:301][389]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.26-22.41.56:329][392]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2024.08.26-22.42.51:424][469]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.08.26-22.42.51:426][469]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.016
+[2024.08.26-22.42.51:426][469]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BS_MM_WalkRun] ([1] browsable assets)...
+[2024.08.26-22.42.51:430][469]OBJ SavePackage:     Rendered thumbnail for [BlendSpace1D /Game/BS_MM_WalkRun.BS_MM_WalkRun]
+[2024.08.26-22.42.51:430][469]OBJ SavePackage: Finished generating thumbnails for package [/Game/BS_MM_WalkRun]
+[2024.08.26-22.42.51:431][469]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BS_MM_WalkRun_Auto2
+[2024.08.26-22.42.51:432][469]LogSavePackage: Moving '../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Saved/BS_MM_WalkRun_Auto2E05CD9B34ADBB9C041E26DB36FB46A8C.tmp' to '../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Saved/Autosaves/Game/BS_MM_WalkRun_Auto2.uasset'
+[2024.08.26-22.42.51:432][469]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MM_Idle] ([1] browsable assets)...
+[2024.08.26-22.42.51:435][469]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/MM_Idle.MM_Idle]
+[2024.08.26-22.42.51:435][469]OBJ SavePackage: Finished generating thumbnails for package [/Game/MM_Idle]
+[2024.08.26-22.42.51:447][469]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MM_Idle_Auto2
+[2024.08.26-22.42.51:447][469]LogSavePackage: Moving '../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Saved/MM_Idle_Auto23D74A40742472619999C70BBA976007C.tmp' to '../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Saved/Autosaves/Game/MM_Idle_Auto2.uasset'
+[2024.08.26-22.42.51:448][469]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MM_Land] ([1] browsable assets)...
+[2024.08.26-22.42.51:452][469]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/MM_Land.MM_Land]
+[2024.08.26-22.42.51:452][469]OBJ SavePackage: Finished generating thumbnails for package [/Game/MM_Land]
+[2024.08.26-22.42.51:464][469]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MM_Land_Auto2
+[2024.08.26-22.42.51:464][469]LogSavePackage: Moving '../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Saved/MM_Land_Auto2345995544BC39600807B5EBE45E36CE4.tmp' to '../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Saved/Autosaves/Game/MM_Land_Auto2.uasset'
+[2024.08.26-22.42.51:464][469]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MM_Fall_Loop] ([1] browsable assets)...
+[2024.08.26-22.42.51:468][469]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/MM_Fall_Loop.MM_Fall_Loop]
+[2024.08.26-22.42.51:468][469]OBJ SavePackage: Finished generating thumbnails for package [/Game/MM_Fall_Loop]
+[2024.08.26-22.42.51:480][469]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MM_Fall_Loop_Auto2
+[2024.08.26-22.42.51:480][469]LogSavePackage: Moving '../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Saved/MM_Fall_Loop_Auto26CD73C4E447CEE8F0C98D89D89D414F6.tmp' to '../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Saved/Autosaves/Game/MM_Fall_Loop_Auto2.uasset'
+[2024.08.26-22.42.51:480][469]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MM_Jump] ([1] browsable assets)...
+[2024.08.26-22.42.51:484][469]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/MM_Jump.MM_Jump]
+[2024.08.26-22.42.51:484][469]OBJ SavePackage: Finished generating thumbnails for package [/Game/MM_Jump]
+[2024.08.26-22.42.51:495][469]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MM_Jump_Auto2
+[2024.08.26-22.42.51:495][469]LogSavePackage: Moving '../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Saved/MM_Jump_Auto247DF238343997B2A4F55DB838AB655AD.tmp' to '../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Saved/Autosaves/Game/MM_Jump_Auto2.uasset'
+[2024.08.26-22.42.51:496][469]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MM_Run_Fwd] ([1] browsable assets)...
+[2024.08.26-22.42.51:499][469]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/MM_Run_Fwd.MM_Run_Fwd]
+[2024.08.26-22.42.51:499][469]OBJ SavePackage: Finished generating thumbnails for package [/Game/MM_Run_Fwd]
+[2024.08.26-22.42.51:511][469]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MM_Run_Fwd_Auto2
+[2024.08.26-22.42.51:511][469]LogSavePackage: Moving '../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Saved/MM_Run_Fwd_Auto246BB45EE4E6B5E606A44158A44265A4E.tmp' to '../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Saved/Autosaves/Game/MM_Run_Fwd_Auto2.uasset'
+[2024.08.26-22.42.51:511][469]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MM_Walk_Fwd] ([1] browsable assets)...
+[2024.08.26-22.42.51:515][469]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/MM_Walk_Fwd.MM_Walk_Fwd]
+[2024.08.26-22.42.51:515][469]OBJ SavePackage: Finished generating thumbnails for package [/Game/MM_Walk_Fwd]
+[2024.08.26-22.42.51:527][469]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MM_Walk_Fwd_Auto2
+[2024.08.26-22.42.51:527][469]LogSavePackage: Moving '../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Saved/MM_Walk_Fwd_Auto249CCF5B84B1A750F94646DBD862E008B.tmp' to '../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Saved/Autosaves/Game/MM_Walk_Fwd_Auto2.uasset'
+[2024.08.26-22.42.51:527][469]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MM_Walk_InPlace] ([1] browsable assets)...
+[2024.08.26-22.42.51:531][469]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/MM_Walk_InPlace.MM_Walk_InPlace]
+[2024.08.26-22.42.51:531][469]OBJ SavePackage: Finished generating thumbnails for package [/Game/MM_Walk_InPlace]
+[2024.08.26-22.42.51:543][469]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MM_Walk_InPlace_Auto2
+[2024.08.26-22.42.51:543][469]LogSavePackage: Moving '../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Saved/MM_Walk_InPlace_Auto2404B72D0427D065CBA9F3E8BB052B521.tmp' to '../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Saved/Autosaves/Game/MM_Walk_InPlace_Auto2.uasset'
+[2024.08.26-22.42.51:543][469]LogFileHelpers: Auto-saving content packages took 0.118
+[2024.08.26-22.43.04:294][573]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/MM_Fall_Loop.MM_Fall_Loop
+[2024.08.26-22.43.04:297][573]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.26-22.43.04:297][573]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.26-22.43.04:311][573]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.08.26-22.43.04:401][573]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.26-22.43.04:401][573]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.26-22.43.04:463][573]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/ApexDestruction.DestructibleMesh'
+[2024.08.26-22.43.04:467][573]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.26-22.43.04:467][573]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.26-22.43.04:476][573]LogViewport: Scene viewport resized to 1522x727, mode Windowed.
+[2024.08.26-22.43.04:490][573]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.08.26-22.43.06:403][719]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2024.08.26-22.43.06:403][719]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.26-22.43.06:407][719]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2024.08.26-22.43.06:407][719]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.26-22.43.06:432][719]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2024.08.26-22.43.06:432][719]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.26-22.43.06:445][719]LogViewport: Scene viewport resized to 634x575, mode Windowed.
+[2024.08.26-22.43.06:464][720]LogViewport: Scene viewport resized to 634x569, mode Windowed.
+[2024.08.26-22.43.06:496][721]LogViewport: Scene viewport resized to 634x561, mode Windowed.
+[2024.08.26-22.43.06:520][722]LogViewport: Scene viewport resized to 634x559, mode Windowed.
+[2024.08.26-22.43.21:046][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.08.26-22.43.24:334][284]LogSlate: Window 'Delete Assets' being destroyed
+[2024.08.26-22.43.24:447][284]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2024.08.26-22.43.24:447][284]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.26-22.43.24:457][284]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2024.08.26-22.43.24:457][284]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.26-22.43.24:460][284]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2024.08.26-22.43.24:460][284]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.26-22.43.24:495][284]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.08.26-22.43.24:495][284]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.26-22.43.24:512][284]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.08.26-22.43.24:512][284]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.26-22.43.24:527][284]LogUObjectGlobals: Force Deleting 14 Package(s):
+	Asset Name: /Game/ABP_Manny.ABP_Manny
+	Asset Type: AnimBlueprint
+	Asset Name: /Game/body_ai_mat.body_ai_mat
+	Asset Type: Material
+	Asset Name: /Game/brow_mat.brow_mat
+	Asset Type: Material
+	Asset Name: /Game/BS_MM_WalkRun.BS_MM_WalkRun
+	Asset Type: BlendSpace1D
+	Asset Name: /Game/MM_Fall_Loop.MM_Fall_Loop
+	Asset Type: AnimSequence
+	Asset Name: /Game/MM_Idle.MM_Idle
+	Asset Type: AnimSequence
+	Asset Name: /Game/MM_Jump.MM_Jump
+	Asset Type: AnimSequence
+	Asset Name: /Game/MM_Land.MM_Land
+	Asset Type: AnimSequence
+	Asset Name: /Game/MM_Run_Fwd.MM_Run_Fwd
+	Asset Type: AnimSequence
+	Asset Name: /Game/MM_Walk_Fwd.MM_Walk_Fwd
+	Asset Type: AnimSequence
+[2024.08.26-22.43.27:189][284]LogSlate: Window 'Message' being destroyed
+[2024.08.26-22.43.27:209][284]Message dialog closed, result: Ok, title: Message, text: IKRetargeter /Game/Retargeter.Retargeter is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+Internal referencers of IKRetargeter /Game/Retargeter.Retargeter:
+   IKRetargetBoneDetails /Game/Retargeter.Retargeter:char_R_shoulderTwist00_SKN (1)
+      0) [[native reference]]
+   IKRetargetBoneDetails /Game/Retargeter.Retargeter:char_L_shoulderTwist00_SKN (1)
+      0) [[native reference]]
+
+
+[2024.08.26-22.43.27:209][284]LogObjectTools: Warning: ForceDeleteObject failed to delete Retargeter, this package is now potentially corrupt
+[2024.08.26-22.43.27:743][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.08.26-22.43.27:762][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.08.26-22.43.27:775][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.08.26-22.43.27:776][284]LogOutputDevice: Warning: 
+
+Script Stack (0 frames) :
+
+[2024.08.26-22.43.27:813][284]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.037 s
+[2024.08.26-22.43.27:813][284]LogOutputDevice: Error: === Handled ensure: ===
+[2024.08.26-22.43.27:813][284]LogOutputDevice: Error: 
+[2024.08.26-22.43.27:813][284]LogOutputDevice: Error: Ensure condition failed: false  [File:D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Private\ObjectTools.cpp] [Line: 3577] 
+[2024.08.26-22.43.27:813][284]LogOutputDevice: Error: 
+[2024.08.26-22.43.27:813][284]LogOutputDevice: Error: 					Failed to unload all packages during ForceDeleteObjects - 
+[2024.08.26-22.43.27:813][284]LogOutputDevice: Error: 					these packages are likely corrupt. Consider restarting the 
+[2024.08.26-22.43.27:813][284]LogOutputDevice: Error: 					editor, noting which assets remain and then deleting them 
+[2024.08.26-22.43.27:813][284]LogOutputDevice: Error: 					from the file system manually: 
+[2024.08.26-22.43.27:813][284]LogOutputDevice: Error: /Game/Retargeter
+[2024.08.26-22.43.27:813][284]LogOutputDevice: Error: Stack: 
+[2024.08.26-22.43.27:813][284]LogOutputDevice: Error: [Callstack] 0x00007ffb62f096b2 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.08.26-22.43.27:813][284]LogOutputDevice: Error: [Callstack] 0x00007ffb623ddd86 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.08.26-22.43.27:813][284]LogOutputDevice: Error: [Callstack] 0x00007ffb627d9bbf UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.08.26-22.43.27:813][284]LogOutputDevice: Error: [Callstack] 0x00007ffb627cf474 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.08.26-22.43.27:813][284]LogOutputDevice: Error: [Callstack] 0x00007ffb65163f66 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.08.26-22.43.27:813][284]LogOutputDevice: Error: [Callstack] 0x00007ffb6518a355 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.08.26-22.43.27:813][284]LogOutputDevice: Error: [Callstack] 0x00007ffb64f1b552 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.08.26-22.43.27:813][284]LogOutputDevice: Error: [Callstack] 0x00007ffb64f002b8 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.08.26-22.43.27:813][284]LogOutputDevice: Error: [Callstack] 0x00007ffb64f689b3 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.08.26-22.43.27:813][284]LogOutputDevice: Error: [Callstack] 0x00007ffb64f57430 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.08.26-22.43.27:813][284]LogOutputDevice: Error: [Callstack] 0x00007ffb64f4ccf0 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.08.26-22.43.27:813][284]LogOutputDevice: Error: [Callstack] 0x00007ffb947c0b12 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2024.08.26-22.43.27:813][284]LogOutputDevice: Error: [Callstack] 0x00007ffb947a6751 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2024.08.26-22.43.27:813][284]LogOutputDevice: Error: [Callstack] 0x00007ffb947c33c8 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2024.08.26-22.43.27:813][284]LogOutputDevice: Error: [Callstack] 0x00007ffb9479ff43 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2024.08.26-22.43.27:813][284]LogOutputDevice: Error: [Callstack] 0x00007ffbb18fef5c USER32.dll!UnknownFunction []
+[2024.08.26-22.43.27:813][284]LogOutputDevice: Error: [Callstack] 0x00007ffbb18fe684 USER32.dll!UnknownFunction []
+[2024.08.26-22.43.27:813][284]LogOutputDevice: Error: [Callstack] 0x00007ffb947c4749 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2024.08.26-22.43.27:813][284]LogOutputDevice: Error: [Callstack] 0x00007ffb64f71a10 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.08.26-22.43.27:813][284]LogOutputDevice: Error: [Callstack] 0x00007ffb64f224e6 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.08.26-22.43.27:813][284]LogOutputDevice: Error: [Callstack] 0x00007ffb628f790d UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.08.26-22.43.27:813][284]LogOutputDevice: Error: [Callstack] 0x00007ffb62eff716 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.08.26-22.43.27:813][284]LogOutputDevice: Error: [Callstack] 0x00007ffb62efec16 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.08.26-22.43.27:813][284]LogOutputDevice: Error: [Callstack] 0x00007ffa97b4bdd0 UnrealEditor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2024.08.26-22.43.27:813][284]LogOutputDevice: Error: [Callstack] 0x00007ffa97b4c206 UnrealEditor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2024.08.26-22.43.27:813][284]LogOutputDevice: Error: [Callstack] 0x00007ffa97b378e9 UnrealEditor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2024.08.26-22.43.27:813][284]LogOutputDevice: Error: [Callstack] 0x00007ffab9aff0cf UnrealEditor-ContentBrowser.dll!UnknownFunction []
+[2024.08.26-22.43.27:813][284]LogOutputDevice: Error: [Callstack] 0x00007ffab9cfdcf7 UnrealEditor-ContentBrowser.dll!UnknownFunction []
+[2024.08.26-22.43.27:813][284]LogOutputDevice: Error: [Callstack] 0x00007ffab9ce447c UnrealEditor-ContentBrowser.dll!UnknownFunction []
+[2024.08.26-22.43.27:813][284]LogOutputDevice: Error: [Callstack] 0x00007ffb64fbfd53 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.08.26-22.43.27:813][284]LogOutputDevice: Error: [Callstack] 0x00007ffb650160ed UnrealEditor-Slate.dll!UnknownFunction []
+[2024.08.26-22.43.27:813][284]LogOutputDevice: Error: [Callstack] 0x00007ffab9d1867a UnrealEditor-ContentBrowser.dll!UnknownFunction []
+[2024.08.26-22.43.27:813][284]LogOutputDevice: Error: [Callstack] 0x00007ffb64efdc49 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.08.26-22.43.27:813][284]LogOutputDevice: Error: [Callstack] 0x00007ffb64f5531d UnrealEditor-Slate.dll!UnknownFunction []
+[2024.08.26-22.43.27:813][284]LogOutputDevice: Error: [Callstack] 0x00007ffb64f4b4e9 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.08.26-22.43.27:813][284]LogOutputDevice: Error: [Callstack] 0x00007ffb947c0778 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2024.08.26-22.43.27:813][284]LogOutputDevice: Error: [Callstack] 0x00007ffb947a6751 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2024.08.26-22.43.27:813][284]LogOutputDevice: Error: [Callstack] 0x00007ffb947c33c8 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2024.08.26-22.43.27:813][284]LogOutputDevice: Error: [Callstack] 0x00007ffb9479ff43 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2024.08.26-22.43.27:813][284]LogOutputDevice: Error: [Callstack] 0x00007ffbb18fef5c USER32.dll!UnknownFunction []
+[2024.08.26-22.43.27:813][284]LogOutputDevice: Error: [Callstack] 0x00007ffbb18fe9de USER32.dll!UnknownFunction []
+[2024.08.26-22.43.27:813][284]LogOutputDevice: Error: [Callstack] 0x00007ffa92a87f09 InkObj.dll!UnknownFunction []
+[2024.08.26-22.43.27:813][284]LogOutputDevice: Error: [Callstack] 0x00007ffb89d710b8 atlthunk.dll!UnknownFunction []
+[2024.08.26-22.43.27:813][284]LogOutputDevice: Error: [Callstack] 0x00007ffbb18fef5c USER32.dll!UnknownFunction []
+[2024.08.26-22.43.27:813][284]LogOutputDevice: Error: [Callstack] 0x00007ffbb18fe684 USER32.dll!UnknownFunction []
+[2024.08.26-22.43.27:813][284]LogOutputDevice: Error: [Callstack] 0x00007ffb947c4856 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2024.08.26-22.43.27:813][284]LogOutputDevice: Error: [Callstack] 0x00007ff65772750b UnrealEditor.exe!UnknownFunction []
+[2024.08.26-22.43.27:813][284]LogOutputDevice: Error: [Callstack] 0x00007ff65774473c UnrealEditor.exe!UnknownFunction []
+[2024.08.26-22.43.27:813][284]LogOutputDevice: Error: [Callstack] 0x00007ff65774482a UnrealEditor.exe!UnknownFunction []
+[2024.08.26-22.43.27:813][284]LogOutputDevice: Error: [Callstack] 0x00007ff6577474f0 UnrealEditor.exe!UnknownFunction []
+[2024.08.26-22.43.27:813][284]LogOutputDevice: Error: [Callstack] 0x00007ff65775a4c4 UnrealEditor.exe!UnknownFunction []
+[2024.08.26-22.43.27:813][284]LogOutputDevice: Error: [Callstack] 0x00007ff65775d996 UnrealEditor.exe!UnknownFunction []
+[2024.08.26-22.43.27:813][284]LogOutputDevice: Error: [Callstack] 0x00007ffbb1ad7374 KERNEL32.DLL!UnknownFunction []
+[2024.08.26-22.43.27:813][284]LogOutputDevice: Error: [Callstack] 0x00007ffbb229cc91 ntdll.dll!UnknownFunction []
+[2024.08.26-22.43.27:813][284]LogOutputDevice: Error: 
+[2024.08.26-22.43.27:823][284]LogStats:                SubmitErrorReport -  0.000 s
+[2024.08.26-22.43.28:392][284]LogStats:                    SendNewReport -  0.570 s
+[2024.08.26-22.43.28:392][284]LogStats:             FDebug::EnsureFailed -  0.616 s
+[2024.08.26-22.43.44:516][747]LogAssetEditorSubsystem: Opening Asset editor for IKRetargeter /Game/Retargeter.Retargeter
+[2024.08.26-22.43.44:517][747]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.26-22.43.44:517][747]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.26-22.43.44:536][747]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.08.26-22.43.44:647][747]LogViewport: Scene viewport resized to 1691x1051, mode Windowed.
+[2024.08.26-22.43.44:672][747]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.08.26-22.43.44:689][748]LogViewport: Scene viewport resized to 1691x1046, mode Windowed.
+[2024.08.26-22.44.05:258][290]LogContentBrowser: Attempting asset rename: Manny_hand_r_anim -> Manny_hand_r_anim
+[2024.08.26-22.44.18:887][282]LogDerivedDataCache: C:/Users/ngelc/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.042 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2529 files in 3664 folders with total size 233 MiB.
+[2024.08.26-22.44.21:334][482]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.26-22.44.21:389][482]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Retargeter" FILE="../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/Retargeter.uasset" SILENT=true
+[2024.08.26-22.44.21:390][482]LogSavePackage: Moving output files for package: /Game/Retargeter
+[2024.08.26-22.44.21:390][482]LogSavePackage: Moving '../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Saved/RetargeterE30E1F604CA516201E585AB3AB173A2A.tmp' to '../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/Retargeter.uasset'
+[2024.08.26-22.44.21:410][482]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 5.16 sec)
+[2024.08.26-22.44.21:412][482]AssetCheck: New page: Asset Save: Retargeter
+[2024.08.26-22.44.21:412][482]LogContentValidation: Display: Validating /Script/IKRig.IKRetargeter /Game/Retargeter.Retargeter
+[2024.08.26-22.44.38:765][820]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.26-22.44.38:765][820]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.26-22.44.38:772][820]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.26-22.44.38:772][820]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.26-22.44.38:847][820]LogViewport: Scene viewport resized to 400x300, mode Windowed.
+[2024.08.26-22.44.38:870][820]LogViewport: Scene viewport resized to 400x300, mode Windowed.
+[2024.08.26-22.45.22:488][838]LogSlate: Window 'Select Export Path' being destroyed
+[2024.08.26-22.45.29:692][414]LogSlate: Window 'Duplicate and Retarget Animation Assets' being destroyed
+[2024.08.26-22.45.29:754][414]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Retarget/MM_Idle.MM_Idle
+[2024.08.26-22.45.29:765][414]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Retarget/MM_Land.MM_Land
+[2024.08.26-22.45.29:777][414]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Retarget/MM_Fall_Loop.MM_Fall_Loop
+[2024.08.26-22.45.29:788][414]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Retarget/MM_Jump.MM_Jump
+[2024.08.26-22.45.29:795][414]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Retarget/MM_Run_Fwd.MM_Run_Fwd
+[2024.08.26-22.45.29:803][414]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Retarget/MM_Walk_Fwd.MM_Walk_Fwd
+[2024.08.26-22.45.29:813][414]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Retarget/MM_Walk_InPlace.MM_Walk_InPlace
+[2024.08.26-22.45.29:843][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.08.26-22.45.29:943][414]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Retarget/MM_Idle.MM_Idle
+[2024.08.26-22.45.30:108][414]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Retarget/MM_Land.MM_Land
+[2024.08.26-22.45.30:273][414]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Retarget/MM_Fall_Loop.MM_Fall_Loop
+[2024.08.26-22.45.30:437][414]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Retarget/MM_Jump.MM_Jump
+[2024.08.26-22.45.30:500][414]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Retarget/MM_Run_Fwd.MM_Run_Fwd
+[2024.08.26-22.45.30:562][414]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Retarget/MM_Walk_Fwd.MM_Walk_Fwd
+[2024.08.26-22.45.30:726][414]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Retarget/MM_Walk_InPlace.MM_Walk_InPlace
+[2024.08.26-22.45.30:742][414]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.08.26-22.45.30:798][414]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.08.26-22.45.30:798][414]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Retarget/MM_Idle.MM_Idle
+[2024.08.26-22.45.30:821][414]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.08.26-22.45.30:821][414]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Retarget/MM_Land.MM_Land
+[2024.08.26-22.45.30:855][414]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.08.26-22.45.30:856][414]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Retarget/MM_Fall_Loop.MM_Fall_Loop
+[2024.08.26-22.45.30:872][414]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.08.26-22.45.30:872][414]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Retarget/MM_Jump.MM_Jump
+[2024.08.26-22.45.30:883][414]LogAnimationCompression: Display: Storing compressed animation data for /Game/Retarget/MM_Land.MM_Land, at AnimationSequence/1e7c5780a5e0317da49e75ec6128250dee6ae913
+[2024.08.26-22.45.30:894][414]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.08.26-22.45.30:894][414]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Retarget/MM_Run_Fwd.MM_Run_Fwd
+[2024.08.26-22.45.30:933][414]LogAnimationCompression: Display: Storing compressed animation data for /Game/Retarget/MM_Jump.MM_Jump, at AnimationSequence/300037ad3bbbdb93c4784226c37d4d145398c3b3
+[2024.08.26-22.45.30:933][414]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.08.26-22.45.30:934][414]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Retarget/MM_Walk_Fwd.MM_Walk_Fwd
+[2024.08.26-22.45.30:971][414]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Retarget/MM_Walk_InPlace.MM_Walk_InPlace
+[2024.08.26-22.45.30:984][414]LogAnimationCompression: Display: Storing compressed animation data for /Game/Retarget/MM_Walk_InPlace.MM_Walk_InPlace, at AnimationSequence/8b80187e7187250edba3c6de11005db8f46147cd
+[2024.08.26-22.45.31:002][414]LogTemp: Display: Duplicate and Retarget - New Asset Created: BS_MM_WalkRun
+[2024.08.26-22.45.31:002][414]LogTemp: Display: Duplicate and Retarget - New Asset Created: MM_Idle
+[2024.08.26-22.45.31:002][414]LogTemp: Display: Duplicate and Retarget - New Asset Created: MM_Land
+[2024.08.26-22.45.31:002][414]LogTemp: Display: Duplicate and Retarget - New Asset Created: MM_Fall_Loop
+[2024.08.26-22.45.31:002][414]LogTemp: Display: Duplicate and Retarget - New Asset Created: MM_Jump
+[2024.08.26-22.45.31:002][414]LogTemp: Display: Duplicate and Retarget - New Asset Created: MM_Run_Fwd
+[2024.08.26-22.45.31:002][414]LogTemp: Display: Duplicate and Retarget - New Asset Created: MM_Walk_Fwd
+[2024.08.26-22.45.31:002][414]LogTemp: Display: Duplicate and Retarget - New Asset Created: MM_Walk_InPlace
+[2024.08.26-22.45.31:003][414]LogTemp: Display: Duplicate and Retarget - New Asset Created: ABP_Manny
+[2024.08.26-22.45.31:034][414]LogAnimationCompression: Display: Storing compressed animation data for /Game/Retarget/MM_Run_Fwd.MM_Run_Fwd, at AnimationSequence/ad1cac7e5161bbbc329a71639dbcaeb7d48db803
+[2024.08.26-22.45.31:046][414]LogAnimationCompression: Display: Storing compressed animation data for /Game/Retarget/MM_Fall_Loop.MM_Fall_Loop, at AnimationSequence/a167f59c3ee115fb52af1aada1ed95ee1f155e77
+[2024.08.26-22.45.31:098][414]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2024.08.26-22.45.31:098][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.26-22.45.31:100][414]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2024.08.26-22.45.31:100][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.26-22.45.31:101][414]LogAnimationCompression: Display: Storing compressed animation data for /Game/Retarget/MM_Walk_Fwd.MM_Walk_Fwd, at AnimationSequence/299e3ccd8f1af3a035e5cee03fef3314616d5889
+[2024.08.26-22.45.31:155][415]LogAnimationCompression: Display: Storing compressed animation data for /Game/Retarget/MM_Idle.MM_Idle, at AnimationSequence/34da553897ece8303bd872bce12041b9d99ac834
+[2024.08.26-22.46.06:061][210]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/Tom.Tom
+[2024.08.26-22.46.06:061][210]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.26-22.46.06:061][210]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.26-22.46.24:272][ 68]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Retarget/ABP_Manny.ABP_Manny
+[2024.08.26-22.46.24:273][ 68]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.26-22.46.24:273][ 68]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.26-22.46.24:302][ 68]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.26-22.46.24:302][ 68]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.26-22.46.24:306][ 68]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.08.26-22.46.24:387][ 68]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.26-22.46.24:387][ 68]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.26-22.46.24:464][ 68]LogViewport: Scene viewport resized to 634x559, mode Windowed.
+[2024.08.26-22.46.27:056][199]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2024.08.26-22.46.27:056][199]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.26-22.46.27:061][199]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2024.08.26-22.46.27:061][199]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.26-22.46.27:088][199]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2024.08.26-22.46.27:088][199]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.26-22.46.35:054][588]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Retarget/ABP_Manny.ABP_Manny
+[2024.08.26-22.46.35:055][588]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.26-22.46.35:055][588]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.26-22.46.35:083][588]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.26-22.46.35:083][588]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.26-22.46.35:088][588]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.08.26-22.46.35:165][588]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.26-22.46.35:165][588]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.26-22.46.35:242][588]LogViewport: Scene viewport resized to 634x559, mode Windowed.
+[2024.08.26-22.46.37:135][687]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2024.08.26-22.46.37:135][687]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.26-22.46.37:140][687]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2024.08.26-22.46.37:140][687]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.26-22.46.37:166][687]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2024.08.26-22.46.37:166][687]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.26-22.46.47:477][180]BlueprintLog: New page: Compile Tom
+[2024.08.26-22.46.47:546][180]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.08.26-22.46.48:655][230]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.26-22.46.48:736][230]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Tom
+[2024.08.26-22.46.48:736][230]LogSavePackage: Moving '../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Saved/TomE0AF4D55486090392459A7B6E63C7464.tmp' to '../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/ThirdPerson/Blueprints/Tom.uasset'
+[2024.08.26-22.46.48:749][230]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 5.25 sec)
+[2024.08.26-22.46.48:751][230]AssetCheck: New page: Asset Save: Tom
+[2024.08.26-22.46.48:751][230]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/Tom.Tom
+[2024.08.26-22.46.50:067][300]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.26-22.46.50:128][300]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Retargeter" FILE="../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/Retargeter.uasset" SILENT=true
+[2024.08.26-22.46.50:129][300]LogSavePackage: Moving output files for package: /Game/Retargeter
+[2024.08.26-22.46.50:129][300]LogSavePackage: Moving '../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Saved/Retargeter29E14F644A6BD729AE4C30AF7DA0BCAC.tmp' to '../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/Retargeter.uasset'
+[2024.08.26-22.46.50:148][300]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 5.33 sec)
+[2024.08.26-22.46.50:150][300]AssetCheck: New page: Asset Save: Retargeter
+[2024.08.26-22.46.50:150][300]LogContentValidation: Display: Validating /Script/IKRig.IKRetargeter /Game/Retargeter.Retargeter
+[2024.08.26-22.46.51:064][345]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.26-22.46.51:121][345]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TomIk" FILE="../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/TomIk.uasset" SILENT=true
+[2024.08.26-22.46.51:126][345]LogSavePackage: Moving output files for package: /Game/TomIk
+[2024.08.26-22.46.51:126][345]LogSavePackage: Moving '../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Saved/TomIkF8F7922642E5C635AAA2C5A74AF2EF76.tmp' to '../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/TomIk.uasset'
+[2024.08.26-22.46.51:141][345]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 5.41 sec)
+[2024.08.26-22.46.51:143][345]AssetCheck: New page: Asset Save: TomIk
+[2024.08.26-22.46.51:143][345]LogContentValidation: Display: Validating /Script/IKRig.IKRigDefinition /Game/TomIk.TomIk
+[2024.08.26-22.46.56:191][683]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.08.26-22.46.56:194][683]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.08.26-22.46.56:195][683]LogWorldPartition: Display: GenerateStreaming started...
+[2024.08.26-22.46.56:195][683]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.08.26-22.46.56:195][683]LogWorldPartition: Display: GetPartitionedActors took 5 us (total: 19 us)
+[2024.08.26-22.46.56:195][683]LogWorldPartition: Display: GenerateStreaming took 83 us (total: 254 us)
+[2024.08.26-22.46.56:218][683]LogPlayLevel: Warning: Cancelling Open Transaction 'Deleting All Animation Curve' to start PIE session.
+[2024.08.26-22.46.56:218][683]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.08.26-22.46.56:218][683]PIE: New page: PIE session: ThirdPersonMap (27 ago. 2024 2:46:56)
+[2024.08.26-22.46.56:218][683]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.08.26-22.46.56:221][683]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002252s)
+[2024.08.26-22.46.56:221][683]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.002273s)
+[2024.08.26-22.46.56:221][683]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.26-22.46.56:221][683]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.26-22.46.56:221][683]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.08.26-22.46.56:221][683]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.08.26-22.46.56:221][683]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.08.26-22.46.56:221][683]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.08.26-22.46.56:222][683]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.08.26-22.46.56:222][683]LogWorldPartition: Display: WorldPartition initialize took 559 us (total: 182 ms)
+[2024.08.26-22.46.56:222][683]LogPlayLevel: PIE: World Init took: (0.001255s)
+[2024.08.26-22.46.56:238][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.08.26-22.46.56:241][683]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.08.26-22.46.56:241][683]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.08.26-22.46.56:241][683]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.08.26-22.46.56:241][683]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.08.26-22.46.56:241][683]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.08.26-22.46.56:241][683]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.08.26-22.46.56:241][683]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.08.26-22.46.56:241][683]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.08.26-22.46.56:241][683]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.08.26-22.46.56:242][683]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.08.26-22.46.56:242][683]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.08.26-22.46.56:242][683]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.08.26-22.46.56:243][683]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.08.26-22.46.56:257][683]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Logitech PRO X Wireless Gaming Headset)
+[2024.08.26-22.46.56:257][683]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.08.26-22.46.56:257][683]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.08.26-22.46.56:257][683]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.08.26-22.46.56:258][683]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.08.26-22.46.56:258][683]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=4
+[2024.08.26-22.46.56:259][683]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.08.26-22.46.56:259][683]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.08.26-22.46.56:259][683]LogInit: FAudioDevice initialized with ID 4.
+[2024.08.26-22.46.56:259][683]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonMap'.
+[2024.08.26-22.46.56:259][683]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.08.26-22.46.56:260][683]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.08.26-22.46.56:261][683]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.08.27-00.46.56
+[2024.08.26-22.46.56:262][683]LogWorld: Bringing up level for play took: 0.000804
+[2024.08.26-22.46.56:262][683]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2024.08.26-22.46.56:265][683]PIE: Server logged in
+[2024.08.26-22.46.56:265][683]PIE: Play in editor total start time 0,071 seconds.
+[2024.08.26-22.46.56:287][683]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.26-22.46.56:311][684]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.26-22.47.12:890][839]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.26-22.47.12:890][839]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.08.26-22.47.12:890][839]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.08.26-22.47.12:890][839]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.26-22.47.12:890][839]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.08.26-22.47.12:893][839]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.08.26-22.47.12:895][839]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.26-22.47.12:909][839]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.08.26-22.47.12:909][839]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.08.26-22.47.12:909][839]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.08.26-22.47.12:911][839]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.08.26-22.47.12:914][839]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.26-22.47.12:916][839]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.08.26-22.47.12:932][839]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.26-22.47.12:948][840]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.26-22.47.12:974][842]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2024.08.26-22.47.17:891][174]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Retarget/MM_Fall_Loop.MM_Fall_Loop
+[2024.08.26-22.47.17:893][174]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.26-22.47.17:893][174]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.26-22.47.17:916][174]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.08.26-22.47.17:992][174]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.26-22.47.17:992][174]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.26-22.47.18:048][174]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.26-22.47.18:048][174]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.26-22.47.18:058][174]LogViewport: Scene viewport resized to 1522x727, mode Windowed.
+[2024.08.26-22.47.18:072][174]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.08.26-22.47.21:212][335]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2024.08.26-22.47.21:212][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.26-22.47.21:217][335]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2024.08.26-22.47.21:217][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.26-22.47.21:239][335]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2024.08.26-22.47.21:239][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.26-22.47.26:479][647]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Retarget/MM_Land.MM_Land
+[2024.08.26-22.47.26:480][647]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.26-22.47.26:480][647]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.26-22.47.26:504][647]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.08.26-22.47.26:584][647]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.26-22.47.26:585][647]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.26-22.47.26:641][647]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.26-22.47.26:641][647]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.26-22.47.26:650][647]LogViewport: Scene viewport resized to 1033x483, mode Windowed.
+[2024.08.26-22.47.26:664][647]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.08.26-22.47.30:764][855]LogViewport: Scene viewport resized to 160x160, mode Windowed.
+[2024.08.26-22.48.18:736][167]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.26-22.48.18:799][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Retarget/MM_Land" FILE="../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/Retarget/MM_Land.uasset" SILENT=true
+[2024.08.26-22.48.18:811][167]LogSavePackage: Moving output files for package: /Game/Retarget/MM_Land
+[2024.08.26-22.48.18:811][167]LogSavePackage: Moving '../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Saved/MM_Land121CC51E474317369056589A74AB9000.tmp' to '../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/Retarget/MM_Land.uasset'
+[2024.08.26-22.48.18:824][167]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 5.50 sec)
+[2024.08.26-22.48.18:827][167]AssetCheck: New page: Asset Save: MM_Land
+[2024.08.26-22.48.18:827][167]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Retarget/MM_Land.MM_Land
+[2024.08.26-22.48.26:276][537]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.26-22.48.26:331][537]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Retarget/MM_Land" FILE="../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/Retarget/MM_Land.uasset" SILENT=true
+[2024.08.26-22.48.26:343][537]LogSavePackage: Moving output files for package: /Game/Retarget/MM_Land
+[2024.08.26-22.48.26:343][537]LogSavePackage: Moving '../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Saved/MM_Land541EA98A4F1AC9551C5EDC957CC317B4.tmp' to '../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/Retarget/MM_Land.uasset'
+[2024.08.26-22.48.26:353][537]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 5.57 sec)
+[2024.08.26-22.48.26:355][537]AssetCheck: New page: Asset Save: MM_Land
+[2024.08.26-22.48.26:355][537]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Retarget/MM_Land.MM_Land
+[2024.08.26-22.48.28:125][654]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.08.26-22.48.28:128][654]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.08.26-22.48.28:129][654]LogWorldPartition: Display: GenerateStreaming started...
+[2024.08.26-22.48.28:129][654]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.08.26-22.48.28:129][654]LogWorldPartition: Display: GetPartitionedActors took 3 us (total: 23 us)
+[2024.08.26-22.48.28:129][654]LogWorldPartition: Display: GenerateStreaming took 82 us (total: 337 us)
+[2024.08.26-22.48.28:129][654]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.08.26-22.48.28:129][654]PIE: New page: PIE session: ThirdPersonMap (27 ago. 2024 2:48:28)
+[2024.08.26-22.48.28:129][654]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.08.26-22.48.28:131][654]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002174s)
+[2024.08.26-22.48.28:132][654]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.002193s)
+[2024.08.26-22.48.28:132][654]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.26-22.48.28:132][654]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.26-22.48.28:132][654]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.08.26-22.48.28:132][654]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.08.26-22.48.28:132][654]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.08.26-22.48.28:132][654]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.08.26-22.48.28:133][654]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.08.26-22.48.28:133][654]LogWorldPartition: Display: WorldPartition initialize took 546 us (total: 183 ms)
+[2024.08.26-22.48.28:133][654]LogPlayLevel: PIE: World Init took: (0.001243s)
+[2024.08.26-22.48.28:148][654]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.08.26-22.48.28:150][654]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.08.26-22.48.28:151][654]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.08.26-22.48.28:151][654]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.08.26-22.48.28:151][654]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.08.26-22.48.28:151][654]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.08.26-22.48.28:151][654]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.08.26-22.48.28:151][654]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.08.26-22.48.28:151][654]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.08.26-22.48.28:151][654]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.08.26-22.48.28:151][654]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.08.26-22.48.28:151][654]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.08.26-22.48.28:151][654]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.08.26-22.48.28:152][654]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.08.26-22.48.28:165][654]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Logitech PRO X Wireless Gaming Headset)
+[2024.08.26-22.48.28:165][654]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.08.26-22.48.28:165][654]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.08.26-22.48.28:165][654]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.08.26-22.48.28:166][654]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.08.26-22.48.28:166][654]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=5
+[2024.08.26-22.48.28:167][654]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.08.26-22.48.28:167][654]LogInit: FAudioDevice initialized with ID 5.
+[2024.08.26-22.48.28:167][654]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.08.26-22.48.28:167][654]LogAudio: Display: Audio Device (ID: 5) registered with world 'ThirdPersonMap'.
+[2024.08.26-22.48.28:167][654]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.08.26-22.48.28:169][654]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.08.26-22.48.28:170][654]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.08.27-00.48.28
+[2024.08.26-22.48.28:170][654]LogWorld: Bringing up level for play took: 0.000829
+[2024.08.26-22.48.28:171][654]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2024.08.26-22.48.28:173][654]PIE: Server logged in
+[2024.08.26-22.48.28:174][654]PIE: Play in editor total start time 0,046 seconds.
+[2024.08.26-22.48.28:185][654]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.26-22.48.28:192][655]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.26-22.48.33:480][ 83]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.26-22.48.33:480][ 83]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.08.26-22.48.33:480][ 83]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.08.26-22.48.33:481][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.26-22.48.33:481][ 83]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.08.26-22.48.33:484][ 83]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.08.26-22.48.33:485][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.26-22.48.33:501][ 83]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.08.26-22.48.33:501][ 83]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.08.26-22.48.33:501][ 83]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.08.26-22.48.33:502][ 83]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.08.26-22.48.33:505][ 83]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.26-22.48.33:507][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.08.26-22.48.33:523][ 83]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.26-22.48.33:538][ 84]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.26-22.48.33:540][ 85]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2024.08.26-22.48.49:141][846]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.26-22.48.49:200][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Retarget/MM_Land" FILE="../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/Retarget/MM_Land.uasset" SILENT=true
+[2024.08.26-22.48.49:212][846]LogSavePackage: Moving output files for package: /Game/Retarget/MM_Land
+[2024.08.26-22.48.49:212][846]LogSavePackage: Moving '../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Saved/MM_Land56B6658C4A7695D58E8A00A3E8637936.tmp' to '../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/Retarget/MM_Land.uasset'
+[2024.08.26-22.48.49:224][846]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 5.66 sec)
+[2024.08.26-22.48.49:226][846]AssetCheck: New page: Asset Save: MM_Land
+[2024.08.26-22.48.49:226][846]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Retarget/MM_Land.MM_Land
+[2024.08.26-22.48.51:796][  1]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.08.26-22.48.51:799][  1]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.08.26-22.48.51:799][  1]LogWorldPartition: Display: GenerateStreaming started...
+[2024.08.26-22.48.51:799][  1]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.08.26-22.48.51:799][  1]LogWorldPartition: Display: GetPartitionedActors took 3 us (total: 27 us)
+[2024.08.26-22.48.51:799][  1]LogWorldPartition: Display: GenerateStreaming took 75 us (total: 413 us)
+[2024.08.26-22.48.51:800][  1]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.08.26-22.48.51:800][  1]PIE: New page: PIE session: ThirdPersonMap (27 ago. 2024 2:48:51)
+[2024.08.26-22.48.51:839][  1]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.08.26-22.48.51:842][  1]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002556s)
+[2024.08.26-22.48.51:842][  1]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.002586s)
+[2024.08.26-22.48.51:842][  1]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.26-22.48.51:842][  1]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.26-22.48.51:842][  1]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.08.26-22.48.51:842][  1]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.08.26-22.48.51:842][  1]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.08.26-22.48.51:842][  1]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.08.26-22.48.51:843][  1]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.08.26-22.48.51:843][  1]LogWorldPartition: Display: WorldPartition initialize took 484 us (total: 183 ms)
+[2024.08.26-22.48.51:843][  1]LogPlayLevel: PIE: World Init took: (0.001129s)
+[2024.08.26-22.48.51:858][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.08.26-22.48.51:860][  1]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.08.26-22.48.51:860][  1]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.08.26-22.48.51:860][  1]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.08.26-22.48.51:860][  1]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.08.26-22.48.51:860][  1]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.08.26-22.48.51:860][  1]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.08.26-22.48.51:860][  1]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.08.26-22.48.51:860][  1]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.08.26-22.48.51:860][  1]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.08.26-22.48.51:860][  1]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.08.26-22.48.51:860][  1]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.08.26-22.48.51:860][  1]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.08.26-22.48.51:861][  1]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.08.26-22.48.51:875][  1]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Logitech PRO X Wireless Gaming Headset)
+[2024.08.26-22.48.51:875][  1]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.08.26-22.48.51:875][  1]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.08.26-22.48.51:875][  1]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.08.26-22.48.51:875][  1]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.08.26-22.48.51:875][  1]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=6
+[2024.08.26-22.48.51:876][  1]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.08.26-22.48.51:876][  1]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.08.26-22.48.51:876][  1]LogInit: FAudioDevice initialized with ID 6.
+[2024.08.26-22.48.51:876][  1]LogAudio: Display: Audio Device (ID: 6) registered with world 'ThirdPersonMap'.
+[2024.08.26-22.48.51:876][  1]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.08.26-22.48.51:878][  1]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.08.26-22.48.51:879][  1]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.08.27-00.48.51
+[2024.08.26-22.48.51:879][  1]LogWorld: Bringing up level for play took: 0.000873
+[2024.08.26-22.48.51:880][  1]LogOnline: OSS: Created online subsystem instance for: :Context_49
+[2024.08.26-22.48.51:882][  1]PIE: Server logged in
+[2024.08.26-22.48.51:883][  1]PIE: Play in editor total start time 0,084 seconds.
+[2024.08.26-22.48.51:895][  1]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.26-22.48.51:900][  2]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.26-22.49.14:830][889]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.26-22.49.14:830][889]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.08.26-22.49.14:830][889]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.08.26-22.49.14:830][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.26-22.49.14:830][889]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.08.26-22.49.14:832][889]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.08.26-22.49.14:834][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.26-22.49.14:848][889]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.08.26-22.49.14:848][889]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.08.26-22.49.14:848][889]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.08.26-22.49.14:850][889]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.08.26-22.49.14:853][889]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.26-22.49.14:854][889]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.08.26-22.49.14:870][889]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.26-22.49.14:885][890]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.26-22.49.14:921][892]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2024.08.26-22.49.35:747][934]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.26-22.49.35:803][934]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Retarget/MM_Land" FILE="../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/Retarget/MM_Land.uasset" SILENT=true
+[2024.08.26-22.49.35:814][934]LogSavePackage: Moving output files for package: /Game/Retarget/MM_Land
+[2024.08.26-22.49.35:815][934]LogSavePackage: Moving '../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Saved/MM_LandF6E0361340DE67A46F7FCAAD14C8E117.tmp' to '../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/Retarget/MM_Land.uasset'
+[2024.08.26-22.49.35:826][934]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 5.74 sec)
+[2024.08.26-22.49.35:828][934]AssetCheck: New page: Asset Save: MM_Land
+[2024.08.26-22.49.35:828][934]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Retarget/MM_Land.MM_Land
+[2024.08.26-22.49.38:229][ 93]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.08.26-22.49.38:232][ 93]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.08.26-22.49.38:233][ 93]LogWorldPartition: Display: GenerateStreaming started...
+[2024.08.26-22.49.38:233][ 93]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.08.26-22.49.38:233][ 93]LogWorldPartition: Display: GetPartitionedActors took 4 us (total: 31 us)
+[2024.08.26-22.49.38:233][ 93]LogWorldPartition: Display: GenerateStreaming took 77 us (total: 490 us)
+[2024.08.26-22.49.38:233][ 93]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.08.26-22.49.38:233][ 93]PIE: New page: PIE session: ThirdPersonMap (27 ago. 2024 2:49:38)
+[2024.08.26-22.49.38:233][ 93]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.08.26-22.49.38:235][ 93]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002080s)
+[2024.08.26-22.49.38:235][ 93]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.002097s)
+[2024.08.26-22.49.38:235][ 93]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.26-22.49.38:235][ 93]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.26-22.49.38:235][ 93]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.08.26-22.49.38:236][ 93]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.08.26-22.49.38:236][ 93]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.08.26-22.49.38:236][ 93]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.08.26-22.49.38:236][ 93]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.08.26-22.49.38:236][ 93]LogWorldPartition: Display: WorldPartition initialize took 532 us (total: 184 ms)
+[2024.08.26-22.49.38:236][ 93]LogPlayLevel: PIE: World Init took: (0.001206s)
+[2024.08.26-22.49.38:249][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.08.26-22.49.38:250][ 93]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.08.26-22.49.38:250][ 93]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.08.26-22.49.38:250][ 93]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.08.26-22.49.38:250][ 93]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.08.26-22.49.38:250][ 93]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.08.26-22.49.38:250][ 93]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.08.26-22.49.38:250][ 93]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.08.26-22.49.38:250][ 93]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.08.26-22.49.38:250][ 93]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.08.26-22.49.38:250][ 93]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.08.26-22.49.38:250][ 93]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.08.26-22.49.38:250][ 93]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.08.26-22.49.38:252][ 93]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.08.26-22.49.38:264][ 93]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Logitech PRO X Wireless Gaming Headset)
+[2024.08.26-22.49.38:264][ 93]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.08.26-22.49.38:264][ 93]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.08.26-22.49.38:264][ 93]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.08.26-22.49.38:265][ 93]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.08.26-22.49.38:265][ 93]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=7
+[2024.08.26-22.49.38:266][ 93]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.08.26-22.49.38:266][ 93]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.08.26-22.49.38:266][ 93]LogInit: FAudioDevice initialized with ID 7.
+[2024.08.26-22.49.38:266][ 93]LogAudio: Display: Audio Device (ID: 7) registered with world 'ThirdPersonMap'.
+[2024.08.26-22.49.38:266][ 93]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.08.26-22.49.38:268][ 93]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.08.26-22.49.38:268][ 93]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.08.27-00.49.38
+[2024.08.26-22.49.38:269][ 93]LogWorld: Bringing up level for play took: 0.000879
+[2024.08.26-22.49.38:270][ 93]LogOnline: OSS: Created online subsystem instance for: :Context_50
+[2024.08.26-22.49.38:272][ 93]PIE: Server logged in
+[2024.08.26-22.49.38:273][ 93]PIE: Play in editor total start time 0,042 seconds.
+[2024.08.26-22.49.38:284][ 93]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.26-22.49.38:294][ 94]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.26-22.49.41:380][343]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.26-22.49.41:380][343]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.08.26-22.49.41:380][343]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.08.26-22.49.41:380][343]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.26-22.49.41:380][343]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.08.26-22.49.41:382][343]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.08.26-22.49.41:384][343]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.26-22.49.41:398][343]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.08.26-22.49.41:398][343]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.08.26-22.49.41:398][343]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.08.26-22.49.41:400][343]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.08.26-22.49.41:403][343]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.26-22.49.41:404][343]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.08.26-22.49.41:420][343]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.26-22.49.41:435][344]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.26-22.49.41:470][346]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2024.08.26-22.50.35:584][322]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.08.26-22.50.35:587][322]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.26-22.50.35:625][322]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tom" FILE="../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/Tom.uasset" SILENT=true
+[2024.08.26-22.50.35:636][322]LogSavePackage: Moving output files for package: /Game/Tom
+[2024.08.26-22.50.35:637][322]LogSavePackage: Moving '../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Saved/Tom296681D4495EE7B1EE4869A0328F3C57.tmp' to '../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/Tom.uasset'
+[2024.08.26-22.50.35:643][322]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Retarget/BS_MM_WalkRun" FILE="../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/Retarget/BS_MM_WalkRun.uasset" SILENT=true
+[2024.08.26-22.50.35:644][322]LogSavePackage: Moving output files for package: /Game/Retarget/BS_MM_WalkRun
+[2024.08.26-22.50.35:644][322]LogSavePackage: Moving '../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Saved/BS_MM_WalkRun3E6D1B49419E03021E2BF48791645F85.tmp' to '../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/Retarget/BS_MM_WalkRun.uasset'
+[2024.08.26-22.50.35:651][322]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Retarget/MM_Idle" FILE="../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/Retarget/MM_Idle.uasset" SILENT=true
+[2024.08.26-22.50.35:664][322]LogSavePackage: Moving output files for package: /Game/Retarget/MM_Idle
+[2024.08.26-22.50.35:664][322]LogSavePackage: Moving '../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Saved/MM_IdleE0E19A7A48024FF2E0A9788E39A64B0F.tmp' to '../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/Retarget/MM_Idle.uasset'
+[2024.08.26-22.50.35:671][322]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Retarget/MM_Fall_Loop" FILE="../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/Retarget/MM_Fall_Loop.uasset" SILENT=true
+[2024.08.26-22.50.35:683][322]LogSavePackage: Moving output files for package: /Game/Retarget/MM_Fall_Loop
+[2024.08.26-22.50.35:683][322]LogSavePackage: Moving '../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Saved/MM_Fall_Loop4F8A3BB54D5B7C1EF49F0CA7D8E65553.tmp' to '../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/Retarget/MM_Fall_Loop.uasset'
+[2024.08.26-22.50.35:690][322]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Retarget/MM_Jump" FILE="../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/Retarget/MM_Jump.uasset" SILENT=true
+[2024.08.26-22.50.35:701][322]LogSavePackage: Moving output files for package: /Game/Retarget/MM_Jump
+[2024.08.26-22.50.35:701][322]LogSavePackage: Moving '../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Saved/MM_Jump592A1B214A978DCE633D5FAD9F4ED85A.tmp' to '../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/Retarget/MM_Jump.uasset'
+[2024.08.26-22.50.35:708][322]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Retarget/MM_Run_Fwd" FILE="../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/Retarget/MM_Run_Fwd.uasset" SILENT=true
+[2024.08.26-22.50.35:720][322]LogSavePackage: Moving output files for package: /Game/Retarget/MM_Run_Fwd
+[2024.08.26-22.50.35:720][322]LogSavePackage: Moving '../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Saved/MM_Run_Fwd183DE3514340E132D995D1BBE4EDA0EB.tmp' to '../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/Retarget/MM_Run_Fwd.uasset'
+[2024.08.26-22.50.35:727][322]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Retarget/MM_Walk_Fwd" FILE="../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/Retarget/MM_Walk_Fwd.uasset" SILENT=true
+[2024.08.26-22.50.35:739][322]LogSavePackage: Moving output files for package: /Game/Retarget/MM_Walk_Fwd
+[2024.08.26-22.50.35:739][322]LogSavePackage: Moving '../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Saved/MM_Walk_FwdDE2476854EE055A08C741FA71360349A.tmp' to '../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/Retarget/MM_Walk_Fwd.uasset'
+[2024.08.26-22.50.35:758][322]LogSavePackage: Moving output files for package: /Game/Retarget/MM_Walk_InPlace
+[2024.08.26-22.50.35:758][322]LogSavePackage: Moving '../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Saved/MM_Walk_InPlace57984855480DEF2995C9839FB29D361F.tmp' to '../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/Retarget/MM_Walk_InPlace.uasset'
+[2024.08.26-22.50.35:764][322]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Retarget/ABP_Manny" FILE="../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/Retarget/ABP_Manny.uasset" SILENT=true
+[2024.08.26-22.50.35:784][322]LogSavePackage: Moving output files for package: /Game/Retarget/ABP_Manny
+[2024.08.26-22.50.35:784][322]LogSavePackage: Moving '../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Saved/ABP_Manny0440E38F412F977F99A82CA7B8CF2915.tmp' to '../../../../../../Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/Retarget/ABP_Manny.uasset'
+[2024.08.26-22.50.35:801][322]LogFileHelpers: InternalPromptForCheckoutAndSave took 214 ms (total: 5.95 sec)
+[2024.08.26-22.50.35:804][322]AssetCheck: New page: Asset Save: multiple assets
+[2024.08.26-22.50.35:804][322]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/Tom.Tom
+[2024.08.26-22.50.35:804][322]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Retarget/MM_Fall_Loop.MM_Fall_Loop
+[2024.08.26-22.50.35:804][322]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Retarget/MM_Idle.MM_Idle
+[2024.08.26-22.50.35:804][322]LogContentValidation: Display: Validating /Script/Engine.BlendSpace1D /Game/Retarget/BS_MM_WalkRun.BS_MM_WalkRun
+[2024.08.26-22.50.35:804][322]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Retarget/ABP_Manny.ABP_Manny
+[2024.08.26-22.50.35:804][322]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Retarget/MM_Walk_InPlace.MM_Walk_InPlace
+[2024.08.26-22.50.35:804][322]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Retarget/MM_Walk_Fwd.MM_Walk_Fwd
+[2024.08.26-22.50.35:804][322]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Retarget/MM_Run_Fwd.MM_Run_Fwd
+[2024.08.26-22.50.35:804][322]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Retarget/MM_Jump.MM_Jump
