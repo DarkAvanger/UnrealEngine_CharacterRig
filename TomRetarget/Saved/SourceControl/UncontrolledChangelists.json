@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/Tom.uasset",
+				"C:/Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/body_ai_mat.uasset",
+				"C:/Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/mouth_mat.uasset",
+				"C:/Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/brow_mat.uasset",
+				"C:/Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/mustache_mat.uasset",
+				"C:/Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/Tom_Skeleton.uasset",
+				"C:/Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/Tom_PhysicsAsset.uasset"
+			]
+		}
+	]
+}
