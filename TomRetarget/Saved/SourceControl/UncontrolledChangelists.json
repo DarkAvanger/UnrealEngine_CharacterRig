@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/Maya_Animations/Tomtest.uasset",
+				"C:/Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/Maya_Animations/WalkAnimation_Ruth.uasset",
+				"C:/Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/Tom_Skeleton.uasset",
+				"C:/Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/Maya_Animations/c.uasset",
+				"C:/Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/Maya_Animations/RunAnimation_Akhil_Anim.uasset",
+				"C:/Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/Maya_Animations/RunAnimation_Akhil.uasset",
+				"C:/Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/Maya_Animations/SleepAnimation_Adriel.uasset",
+				"C:/Users/ngelc/Documents/GitHub/UnrealEngine_CharacterRig/TomRetarget/Content/Maya_Animations/WalkAnimation_Akhil.uasset"
+			]
+		}
+	]
+}
