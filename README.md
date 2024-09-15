@@ -19,7 +19,7 @@ The repository is organized into the following folders:
 Here are two videos related to the project:
 
 1. **Rig Showcase**: A short video showing the various controls and features.
-   - [Rig Showcase Video]()
+   - [Rig Showcase Video](https://youtu.be/KGuLwQrIKDg)
 
 2. **Project Trailer**: A short trailer showcasing the animations and the Unreal Engine project.
    - [Project Trailer Video](https://youtu.be/DAT5LkKg5wY)
